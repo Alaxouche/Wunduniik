@@ -12,13 +12,13 @@ A Skyrim SE Heavy Modlist Installer.
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
   - [Wabbajack Installation](#wabbajack-installation)
-  - [Post-Installation]
-    - [Load Order Sorting]
+  - [Post-Installation](post-installation)
+    - [Load Order Sorting](load-order-sorting)
     - [BethINI]
-    - [ENB]
-- [Using The List]
-  - [Starting The List]
-  - [Configuring MCM]
+    - [ENB](enb)
+- [Using The List](using-the-list)
+  - [Starting The List](starting-the-list)
+  - [Configuring MCM](configuring-mcm)
 - [Updating The List]
 - [Removing The List]
 - [FAQ]
@@ -90,14 +90,32 @@ The next steps are optional **but** useful if you want to edit the list so if yo
   - [DynDOLOD 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
   - [ZEdit](https://github.com/z-edit/zedit/releases)
   - [SSELODGen](https://www.nexusmods.com/skyrimspecialedition/mods/6642/)
-- Install them on the Modding file we just created
+  - [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
+- Install them on the Modding file we just created. Your Modding folder should look like this now:
+
+![image](https://i.redd.it/x6vy7rvu8u191.png)
 
 ### Wabbajack Installation
 
 ### Post Installation
+
+#### Load Order Sorting
+
+If needed (or if you added new mods with plugins), it's highly recommanded that you sort your modlist. To do so, launch Mod Organizer 2, and add as executable `LOOT.exe`. Now run LOOT to the executable list. To help you, I already made some configurations for a correct Load Order. Here is the [OOT Settings](https://drive.google.com/file/d/1-zJu53bN4NCCfUx9K3jNiD_4oXQYMCot/view?usp=sharing) I use. Extract its content in "Your Disk"\Users\"Your User Profile"\AppData\Local\LOOT\games\Skyrim Special Edition. (Tip: to get access to Appdata if you can't see it, in your files explorer, go to options, Display, and tick "display hidden files and folders").
 
 #### ENB
 
 Wunduniik was designed and set up to be used with [Rudy ENB for Cathedral Weathers - Zangdar Edit](https://www.nexusmods.com/skyrimspecialedition/mods/39113) last version, but you can change it if you don't like it.
 
 Also to help you with the ENB management, I strongly advise you the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077). It will allow you to prepare presets of ENBs you can easely switch as it will remember the files used and their configurations. Here is how you may use/set up it:
+
+## Using The List
+
+### Starting The List
+
+Open `Mod Organizer.exe` and launch `SKSE` through the executables. As the modlist is quite big , depending on your pc, it may take some time to load the game. **THIS IS NORMAL DON'T PANIC!** Also I advise you to add Modding folder and Skyrim folder as exeptions in your Antivirus, it may cause some issues and even crashes.
+
+### Configuring MCM
+
+MCM have been configured thanks to [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719). However if you don't like my settings, it's up top you to change them, but with the amount of MCM, it may take some time. Here is my configuration for (almost) all MCM:
+
