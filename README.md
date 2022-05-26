@@ -7,11 +7,11 @@ A Skyrim SE Heavy Modlist Installer.
 ## Summary
 - [Preamble](#preamble)
 - [System Requirement & Necessary Tools](#system-requirement-and-necessary-tools)
-  - [Pc Minimum And Recommanded Components](pc-minimum-and-recommanded-components)
-  - [Necessary And Useful Applications](necessary-and-useful-applications)
+  - [Pc Minimum And Recommanded Components](#pc-minimum-and-recommanded-components)
+  - [Necessary And Useful Applications](#necessary-and-useful-applications)
 - [Installation](#installation)
-  - [Pre-Installation](pre-installation)
-  - [Wabbajack Installation]
+  - [Pre-Installation](#pre-installation)
+  - [Wabbajack Installation](#wabbajack-installation)
   - [Post-Installation]
     - [Load Order Sorting]
     - [BethINI]
@@ -66,10 +66,29 @@ In comparison here are my specs:
 ### Necessary And Useful Applications
 
 For the modlist to work you must have some apps:
-Please ensure you have .NET v5.0 or higher installed. Download the **desktop app installer and console app x64** from Microsoft here https://dotnet.microsoft.com/download/dotnet/5.0/runtime.
+Please ensure you have .NET v5.0 or higher installed. Download the **desktop app installer and console app x64** from Microsoft here https://dotnet.microsoft.com/download/dotnet/5.0/runtime, and also [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
 To help you with the INIs configuration, I highly recommand to have installed [Notepad ++](https://notepab-plus-plus.biz)
 
 ## Installation
 
 ### Pre-Installation
+
+Before installing the modlist, here are some things you **must** do:
+- Uninstall your game. Re-Install it in a custom folder outside C:\Progam Files... (for exemple i installed it in C:\Games) and also make sure it is installed in the     disk with more free space!
+- Downgrade your game from v1.6.xxx to v1.5.97 using the [Unofficial Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618)
+- Install Mod Organizer 2 in a custom location (but still in the disk with more free space!), such as C:\Modding
+
+The next steps are optional **but** useful if you want to edit the list so if you want to skip, you can:
+
+- Download the following applications:
+  - [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164)
+  - [LOOT](https://www.nexusmods.com/skyrimspecialedition/mods/1918)
+  - [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875)
+  - [Wrye Bash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
+  - [DynDOLOD 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+  - [ZEdit](https://github.com/z-edit/zedit/releases)
+  - [SSELODGen](https://www.nexusmods.com/skyrimspecialedition/mods/6642/)
+- Install them on the Modding file we just created
+
+### Wabbajack Installation
