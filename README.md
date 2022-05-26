@@ -12,13 +12,13 @@ A Skyrim SE Heavy Modlist Installer.
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
   - [Wabbajack Installation](#wabbajack-installation)
-  - [Post-Installation](post-installation)
-    - [Load Order Sorting](load-order-sorting)
-    - [BethINI]
+  - [Post-Installation](#post-installation)
+    - [Load Order Sorting](#load-order-sorting)
+    - [BethINI and INIs](#bethini-and-inis)
     - [ENB](enb)
-- [Using The List](using-the-list)
-  - [Starting The List](starting-the-list)
-  - [Configuring MCM](configuring-mcm)
+- [Using The List](#using-the-list)
+  - [Starting The List](#starting-the-list)
+  - [Configuring MCM](#configuring-mcm)
 - [Updating The List]
 - [Removing The List]
 - [FAQ]
@@ -106,6 +106,22 @@ If needed (or if you added new mods with plugins), it's highly recommanded that 
 Tip: to get access to Appdata if you can't see it, in your files explorer, go to options, Display, and tick "display hidden files and folders":
 
 ![image](https://i.redd.it/9gy3rgdmgu191.png)
+
+#### BethINI and INIs
+
+BethINI is a really useful tool to edit your `Skyrim.ini`, `SkyrimCustom.ini` and `SkyrimPrefs.ini`. I already provided you my INIs, but some lines might not be set up correctly for your computer. Here are the lines you must check before starting your game:
+- SkyrimPrefs.ini:
+  - [Display]
+    - iSize H=1080 -> Change this with your screen resolution Height
+    - iSize W=1920 -> Change this with your screen resolution Width
+    
+      Those 2 lines can be changed directly through the Skyrim Launcher or BethINI
+  - [Launcher]
+    - sD3DDevice="NVIDIA GeForce GTX 1070" -> Change this with you GPU name
+- Skyrim.ini:
+  - [Display]
+    - sScreenShotBaseName=C:\Games\The Elder Scrolls - Skyrim - Special Edition\Screenshots\Screenshots -> Create a folder called `Screenshots` and replace this line         with the path leading to the new folder. Also you can change this using BethINI.
+
 
 #### ENB
 
