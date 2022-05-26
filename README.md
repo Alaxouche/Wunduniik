@@ -21,9 +21,9 @@ A Skyrim SE Heavy Modlist Installer.
   - [Configuring MCM](#configuring-mcm)
 - [Updating The List]
 - [Removing The List]
-- [FAQ]
-  - [Fix a Crash]
-  - [Reporting an Issue]
+- [FAQ](#faq)
+  - [Fix a Crash](#fix-a-crash)
+  - [Reporting an Issue](#reporting-an-issue)
   - [Wide and Ultrawide Screens Options]
   - [Performance Options]
     - [Tweaking/Swithing ENB]
@@ -139,3 +139,18 @@ Open `Mod Organizer.exe` and launch `SKSE` through the executables. As the modli
 
 MCM have been configured thanks to [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719). However if you don't like my settings, it's up top you to change them, but with the amount of MCM, it may take some time. Here is my configuration for (almost) all MCM:
 
+## FAQ
+
+This section is for now empty, but will fill up with the question that will be asked. 
+
+### Fix a Crash
+
+If you are playing with my modlist (or any other) and for some reasons, the game crashes, don't panic. It can happen. The first thing we want to know is why doest it crash. To find out, normally once you will go back to Mod organizer 2, the `Overwrite` folder will contain a new folder called ".NetScriptFramework". Expand it until you see a `Crash.txt` file. We will take an example:
+
+![image](https://i.redd.it/tlssuy3elu191.png)
+
+We can see on this crash log that in the `Possible Relevant Objects`, the plugins *etheral_elven_overhaul.esp* and *JK's Temple of Mara....esp* are mentioned a lot. This means they may be the cause of the crashes. So just disable the corresponding plugins and restart your game. If it doesn't crash again, we fixed it, however if it crashes again, follow again the steps. If after that you just can't fix your crashes, you can ask me or the modding helpers in my discord server.
+
+### Reporting an Issue
+
+If, during your playthrough, you encounter any bug, incompatibily, that may disturb your gameplay/immersion, I invite you to head over my discord server and to share the bug you found in the dedicated channel, so I can try to fix it for a future update. We are working together to make this modlist always better!
