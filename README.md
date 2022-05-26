@@ -101,7 +101,11 @@ The next steps are optional **but** useful if you want to edit the list so if yo
 
 #### Load Order Sorting
 
-If needed (or if you added new mods with plugins), it's highly recommanded that you sort your modlist. To do so, launch Mod Organizer 2, and add as executable `LOOT.exe`. Now run LOOT to the executable list. To help you, I already made some configurations for a correct Load Order. Here is the [OOT Settings](https://drive.google.com/file/d/1-zJu53bN4NCCfUx9K3jNiD_4oXQYMCot/view?usp=sharing) I use. Extract its content in "Your Disk"\Users\"Your User Profile"\AppData\Local\LOOT\games\Skyrim Special Edition. (Tip: to get access to Appdata if you can't see it, in your files explorer, go to options, Display, and tick "display hidden files and folders").
+If needed (or if you added new mods with plugins), it's highly recommanded that you sort your modlist. To do so, launch Mod Organizer 2, and add as executable `LOOT.exe`. Now run LOOT to the executable list. To help you, I already made some configurations for a correct Load Order. Here is the [LOOT Settings](https://drive.google.com/file/d/1-zJu53bN4NCCfUx9K3jNiD_4oXQYMCot/view?usp=sharing) I use. Extract its content in "Your Disk"\Users\"Your User Profile"\AppData\Local\LOOT\games\Skyrim Special Edition. 
+
+Tip: to get access to Appdata if you can't see it, in your files explorer, go to options, Display, and tick "display hidden files and folders":
+
+![image](https://i.redd.it/9gy3rgdmgu191.png)
 
 #### ENB
 
