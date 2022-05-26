@@ -76,6 +76,7 @@ To help you with the INIs configuration, I highly recommand to have installed [N
 
 Before installing the modlist, here are some things you **must** do:
 - Uninstall your game. Re-Install it in a custom folder outside C:\Progam Files... (for exemple i installed it in C:\Games) and also make sure it is installed in the     disk with more free space!
+- Change Skyrim so it does not automatically update (Important!).
 - Downgrade your game from v1.6.xxx to v1.5.97 using the [Unofficial Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618)
 - Install Mod Organizer 2 in a custom location (but still in the disk with more free space!), such as C:\Modding
 
@@ -92,3 +93,11 @@ The next steps are optional **but** useful if you want to edit the list so if yo
 - Install them on the Modding file we just created
 
 ### Wabbajack Installation
+
+### Post Installation
+
+#### ENB
+
+Wunduniik was designed and set up to be used with [Rudy ENB for Cathedral Weathers - Zangdar Edit](https://www.nexusmods.com/skyrimspecialedition/mods/39113) last version, but you can change it if you don't like it.
+
+Also to help you with the ENB management, I strongly advise you the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077). It will allow you to prepare presets of ENBs you can easely switch as it will remember the files used and their configurations. Here is how you may use/set up it:
