@@ -15,22 +15,23 @@ A Skyrim SE Heavy Modlist Installer.
   - [Post-Installation](#post-installation)
     - [Load Order Sorting](#load-order-sorting)
     - [BethINI and INIs](#bethini-and-inis)
-    - [ENB](enb)
+    - [ENB](#enb)
 - [Using The List](#using-the-list)
   - [Starting The List](#starting-the-list)
   - [Configuring MCM](#configuring-mcm)
-- [Updating The List]
-- [Removing The List]
+- [Updating The List](#updating-the-list)
+- [Editing The List](#editing-the-list)
+- [Removing The List](#removing-the-list)
 - [FAQ](#faq)
   - [Fix a Crash](#fix-a-crash)
   - [Reporting an Issue](#reporting-an-issue)
-  - [Wide and Ultrawide Screens Options]
-  - [Performance Options]
-    - [Tweaking/Swithing ENB]
-    - [Ini Configuration]
-    - [Mod Configuration]
-- [Credits And Thanks]
-- [Contact Me]
+  - [Wide and Ultrawide Screens Options](#wide-and-ultrawide-screens-options)
+  - [Performance Options](#performance-options)
+    - [Tweaking and Swithing ENB](#tweaking-and-switching-enb)
+    - [INI Configuration](#ini-configuration)
+    - [Mods Configuration](#mods-configuration)
+- [Credits And Thanks](#credits-and-thanks)
+- [Contact Me](#contact-me)
 
 ## Preamble
 
@@ -42,6 +43,10 @@ A Skyrim SE Heavy Modlist Installer.
 
 This modlist is an heavy +1200 mods list based on **my** personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2022 game than a 2011 game. Keep in ming that the list is more like a vanilla rework than a list adding new quests, new lands...
 Wunduniik is a draconic word meaning "Traveler". I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlsit will provide you the same feeling, because you will almost discover a new game.
+
+# Disclaimer
+
+### YOU MUST READ THE INTEGRITY OF THIS README TO MAKE SURE THE LIST WILL WORK. IF YOU DON'T READ IT WON'T WORK. THE LIST WAS MADE TO TOTALLY CHANGE THE GAME IN A NON-LORE FRIENDLY WAY. IF YOU HAVE ANY SUGGESTION, BUG REPORT OR ISSUE WITH THE LIST, PLEASE INFORM ME IN MY DISCORD SERVER.
 
 ## System Requirement and Necessary Tools
 
@@ -77,23 +82,8 @@ To help you with the INIs configuration, I highly recommand to have installed [N
 Before installing the modlist, here are some things you **must** do:
 - Uninstall your game. Re-Install it in a custom folder outside C:\Progam Files... (for exemple i installed it in C:\Games) and also make sure it is installed in the     disk with more free space!
 - Change Skyrim so it does not automatically update (Important!).
-- Downgrade your game from v1.6.xxx to v1.5.97 using the [Unofficial Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618)
+- Wunduniik makes use of **Stock Game System**, so every files contained in my Game folder will be installed for you.
 - Install Mod Organizer 2 in a custom location (but still in the disk with more free space!), such as C:\Modding
-
-The next steps are optional **but** useful if you want to edit the list so if you want to skip, you can:
-
-- Download the following applications:
-  - [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164)
-  - [LOOT](https://www.nexusmods.com/skyrimspecialedition/mods/1918)
-  - [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875)
-  - [Wrye Bash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
-  - [DynDOLOD 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
-  - [ZEdit](https://github.com/z-edit/zedit/releases)
-  - [SSELODGen](https://www.nexusmods.com/skyrimspecialedition/mods/6642/)
-  - [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
-- Install them on the Modding file we just created. Your Modding folder should look like this now:
-
-![image](https://i.redd.it/x6vy7rvu8u191.png)
 
 ### Wabbajack Installation
 
@@ -139,6 +129,27 @@ Open `Mod Organizer.exe` and launch `SKSE` through the executables. As the modli
 
 MCM have been configured thanks to [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719). However if you don't like my settings, it's up top you to change them, but with the amount of MCM, it may take some time. Here is my configuration for (almost) all MCM:
 
+## Updating the List
+
+If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+
+**Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save compatible. Your downloads folder will not be touched!
+
+Updating is like installing. You only have to make sure that you select the same path and tick the overwrite existing Modlist button.
+
+## Editing the List
+
+I know some of you will surely find things to change because of personnal preferences. To help you with the edition of the list, I added some symbols to retreive what kind of mods are on the list:
+- **Mods tagged with ():** those mods are regular Fomods, with only add-ons and options, no patches for other mods.
+- **Mods tagged with []:** those mods are Fomods that include patches for other mods, and they may also include add-ons and options.
+- **Mods Tagged with {}:** those mods are mods not published on the Nexus. 
+
+## Removing the List
+
+To uninstall the list simply delete the MO2 folder. As Wunduniik uses the Stock Game system, which copies a game installation within it's installation folder, it is entirely self contained.
+
 ## FAQ
 
 This section is for now empty, but will fill up with the question that will be asked. 
@@ -154,3 +165,70 @@ We can see on this crash log that in the `Possible Relevant Objects`, the plugin
 ### Reporting an Issue
 
 If, during your playthrough, you encounter any bug, incompatibily, that may disturb your gameplay/immersion, I invite you to head over my discord server and to share the bug you found in the dedicated channel, so I can try to fix it for a future update. We are working together to make this modlist always better!
+
+### Wide and Ultrawide Screens Options
+
+If you play on a wide or ultrawide screen (32:9, 21:9), you may need to fix the UI, because it won't be scaled up to your screen ratio. You may want to install [Nordic UI 32 by 9 and 21 by 9 aspect ratio patch](https://www.nexusmods.com/skyrimspecialedition/mods/53909) that will scale the UI of Nordic UI to you screen. If you find anything else not scaled up properly with the UI, let me know.
+
+### Performance Options
+
+#### Tweaking and Switching ENB
+
+It is possible that the ENB I use in this list don't suit you, or is too performance heavy for your list. In that case here is what you can do:
+- Switch with a more performance friendly ENB, such as [Re-Engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
+- You can disable Complex Grass in the `ENBSeries.ini` file, to get back some perfs
+- You can change those settings in the `ENBSeries.ini` file:
+  - [EFFECT]
+    - EnableDepthOfField=false
+    - EnableNormalMappingShadows=false
+  - [SSAO_GAME]
+    - AOAmount=0.0
+    - AOAmountInterior=0.0
+  - [SSAO_SSIL]
+    - UseSelfIntersecting=false
+    - SourceTexturesScale=0.25
+    - SamplingQuality=1
+  - [COMPLEXFIRELIGHTS]
+    - EnableShadow=false
+  - [COMPLEXPARTICLELIGHTS]
+    - EnableShadow=false
+    - EnableNormalMappingShadows=false
+  - [REFLECTION]
+    - Quality=-1
+  - [UNDERWATER]
+    - HighQualityCaustics=false
+  - [WATER]
+    - EnableTessellation=false
+
+#### INI Configuration
+
+It is also possible that some of your INI settings are really unoptimized and may take some performances for nothing. Open `BethINI` and make sure the settings are like this:
+- Shadow Resolution: 2048
+- Ambient Occlusion: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
+- Remove Shadows: I really don’t recommend turning this on, but if you must then you can.
+
+#### Mods Configuration
+
+As I already said it, the modlist is exclusively in 2K. This means that every files, including effects such as mists, dadelion seeds, ripples... are in 2K. You can lower them, as well as some clutter retextures, in 1K if you estimate that 2K is not necessary. You may not find a big difference between 1K and 2K for those files. Also, you can change some settings in the Fomods ([Editing the Modlist](#editing-the-modlist)).
+
+**If you have more questions, I invite you to join my Discord Server (Link in [Contact Me](#contact-me))!!**
+
+## Credits and Thanks
+
+- First thanks to **You** for downloading the list and reading this. The modlist is alive because of you.
+- Thanks to Halgari and everyone the Wabbajack Team, without whom this list would surely never have seen the daylight.
+- thanks to Althro and the Animonculory Team for their support and feedbacks, you should also check out their [incredible list](https://www.wabbajack.org/modlist/Animonculory/AVO).
+- Thanks to AvatarV who helped me a lot with the Trailer video for the list.
+- And of course thanks to every modders whose mods I used for the list.
+
+## Contact Me
+
+[![Discord][discord-icon]][discord-link]
+
+[discord-icon]: https://i.redd.it/gpbq94pahz191.png
+[discord-link]: https://discord.gg/2BWpEdxwNf
+
+[![Nexus][nexus-icon]][nexus-link]
+
+[nexus-icon]: https://i.redd.it/evvafm26hz191.png
+[nexus-link]: https://www.nexusmods.com/users/57127132
