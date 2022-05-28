@@ -13,6 +13,7 @@ A Skyrim SE Heavy Modlist Installer.
   - [Pre-Installation](#pre-installation)
   - [Wabbajack Installation](#wabbajack-installation)
   - [Post-Installation](#post-installation)
+    - [Additional Files](#additional-files)
     - [Load Order Sorting](#load-order-sorting)
     - [BethINI and INIs](#bethini-and-inis)
     - [ENB](#enb)
@@ -89,6 +90,22 @@ Before installing the modlist, here are some things you **must** do:
 
 ### Post Installation
 
+#### Additional Files
+
+Some file are not on the Wabbajack Whitelist and tho cannot be added directly to the Wabbajack installation. To add them to your game, you must follow the next steps:
+
+- Download the [Wunduniik Manual Mods](https://drive.google.com/drive/folders/1Sy9eiTBDklq6i196Qv-f2UJ2wNCtIX3q?usp=sharing)
+- Copy them to the instance download folder (C:\Games\Wunduniik\downloads)
+- In Mod Organizer 2, install the mods in their appropriate categories:
+  - `Happy Little Trees Toxic Edit {}` goes to `Environement`, under `Ancient Lands` 
+  - `Mat Enhanced River {}` goes to `Environement`, under `Veydosebrom Regions for ENB Complex Grass ()`
+  - `More Flowers` goes to `Environement`, place it where you want inside, it doesn't matter
+  - `Unofficial Skyrim Special Edition Patch` goes to `Foundation`, above `Cleaned Skyrim Textures`
+  - `Near Creature Skeleton {}` goes to `Immersion And Overhauls`, place it where you want inside
+  - `Blubbo Gildergreen Tree Replacer {}` goes to `Environment`, under `Ancient Trees of Skyrim`
+  - Merge other Blubbo's mods into one called `Fun Flags Blubbo {}`, place it above `Blubbos Fun Flags Whiterun` in `Cities & Towns`
+  - Photogrammetry Ported mods go to `Textures - Flora`, place them where you want inside, it doesn't matter 
+  
 #### Load Order Sorting
 
 If needed (or if you added new mods with plugins), it's highly recommanded that you sort your modlist. To do so, launch Mod Organizer 2, and add as executable `LOOT.exe`. Now run LOOT to the executable list. To help you, I already made some configurations for a correct Load Order. Here is the [LOOT Settings](https://drive.google.com/file/d/1-zJu53bN4NCCfUx9K3jNiD_4oXQYMCot/view?usp=sharing) I use. Extract its content in "Your Disk"\Users\"Your User Profile"\AppData\Local\LOOT\games\Skyrim Special Edition. 
@@ -118,6 +135,20 @@ BethINI is a really useful tool to edit your `Skyrim.ini`, `SkyrimCustom.ini` an
 Wunduniik was designed and set up to be used with [Rudy ENB for Cathedral Weathers - Zangdar Edit](https://www.nexusmods.com/skyrimspecialedition/mods/39113) last version, but you can change it if you don't like it.
 
 Also to help you with the ENB management, I strongly advise you the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077). It will allow you to prepare presets of ENBs you can easely switch as it will remember the files used and their configurations. Here is how you may use/set up it:
+
+1- Launch ENB Organizer through Mod Organizer 2:
+
+![image](https://i.redd.it/bejqj491l7291.png)
+
+2- Browse to the preset section:
+
+![image](https://i.redd.it/0ju9g2a3l7291.png)
+
+3- Select one of the different ENB presets available for the list (all are compatible with the list's weather mod, Cathedral Weather):
+
+![image](https://i.redd.it/tnpyve3el7291.png)
+
+4- If you want to add your presets, follow the instructions directly on the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) mod page.
 
 ## Using The List
 
