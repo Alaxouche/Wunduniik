@@ -1,5 +1,15 @@
 ![Logo](https://i.redd.it/1tfaz3eeas191.png)
 
+---
+
+<h3 align="center">
+  <a href="https://discord.gg/2BWpEdxwNf/"><img alt="Discord"src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="50" height="50"></a> ︱
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/76466"><img alt="Nexus" src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" width="50" height="50"></a> ︱
+  <a href="https://www.patreon.com/alaxouche"><img alt="Patreon" src="https://decentered.co.uk/wp-content/uploads/2019/12/patreon-logo-png-badge-7.png" width="50" height="50"></a> ︱
+  <a href="https://ko-fi.com/alaxouche"><img alt="Ko-Fi" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png" width="50" height="50"></a>
+</h3>
+<hr>
+
 # Wunduniik
 
 A Skyrim SE Heavy Modlist Installer.
@@ -11,6 +21,8 @@ A Skyrim SE Heavy Modlist Installer.
   - [Necessary And Useful Applications](#necessary-and-useful-applications)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
+    - [Necessary Tweaks](#necessary-tweaks)
+    - [Accounts & Websites](#accounts-and-websites)
   - [Wabbajack Installation](#wabbajack-installation)
   - [Post-Installation](#post-installation)
     - [Load Order Sorting](#load-order-sorting)
@@ -58,25 +70,22 @@ Wunduniik is a draconic word meaning "Traveler". I chose this one as I think tha
 As Wunduniik is a modlist modlist based on graphics, you must have a good GPU.
 
 Minimum Specs:
-- CPU: I5 10th Gen or AMD Equivalent
-- RAM: 16GB DDR4
-- GPU: a 8GB GPU such as a GTX 1080, RTX 2070...
-- Storage: a 500GB SSD is the best, but a HDD will do the work
-- Screen: FHD Screen in 60Hz (keep in mind that having higher resolution will decrease performances so you must have a good pc)
+
+| CPU | GPU |  RAM  | Storage | Screen | FPS |
+| ------------- |------------- | ----- | ----- | ----------- | ---------- |
+| I5-7600k | Nvidia GTX 1080 | 16GB RAM DDR4 | 500 GB SATA II SSD | FHD 60Hz Screen | 35 |
 
 Recommended Specs:
-- CPU: I7-10th Gen or AMD Equivalent
-- Ram: 16GB DDR5
-- GPU: RTX 3060TI
-- Storage: a 1TB SATA III/M.2 SSD 
-- Screen: FHU Screen in 144Hz
+
+| CPU | GPU |  RAM  | Storage | Screen | FPS |
+| ------------- |------------- | ----- | ----- | ----------- | ---------- |
+| I7-9700k | Nvidia RTX 3060TI | 16GB RAM DDR5 | 1 TB SATA III/M.2 SSD | FHD 144Hz Screen | 50 |
 
 In comparison here are my specs:
-- CPU: I7-7700
-- RAM: Corsair Vengeance 16GB DDR4
-- GPU: RTX 3060TI
-- Storage: 1TB SATA III Samsung SSD
-- Screen: FHD Screen in 60Hz
+
+| CPU | GPU |  RAM  | Storage | Screen | FPS |
+| ------------- |------------- | ----- | ----- | ----------- | ---------- |
+| I7-7700 | Nvidia RTX 3060TI | 16GB RAM DDR4 | 1TB SATA III SSD | FHD 60Hz Screen | 45 |
 
 ### Necessary And Useful Applications
 
@@ -89,11 +98,21 @@ To help you with the INIs configuration, I highly recommand to have installed Su
 
 ### Pre-Installation
 
+#### Necessary Tweaks
+
 Before installing the modlist, here are some things you **must** do:
-- Uninstall your game. Re-Install it in a custom folder outside C:\Progam Files... (for exemple i installed it in C:\Games) and also make sure it is installed in the     disk with more free space!
+- Buy a **legal** copy of Skyrim Special Edition from Steam
+- Install (or Uninstall your game and re-Install) your game it a custom folder outside C:\Progam Files... (for exemple i installed it in C:\Games) and also make sure     it is installed in the disk with more free space!
 - Change Skyrim so it does not automatically update (Important!).
 - Wunduniik makes use of **Stock Game System**, so every files contained in my Game folder will be installed for you.
 - Install Mod Organizer 2 in a custom location (but still in the disk with more free space!), such as C:\Modding
+
+#### Accounts and Websites
+
+So the Wabbajack Installation happens without problem, you must connect/create a few accounts for the following websites:
+- [Loverslab](https://www.loverslab.com/)
+- [Nexus Mod](https://www.nexusmods.com/) (Premium Recommended for faster installation)
+- [Vector Plexis](https://vectorplexis.com/)
 
 ### Wabbajack Installation
 
@@ -153,6 +172,22 @@ DLSS is an upscaling method use by Nvidia cards (there are equivalents for AMD a
 This method tricks the graphic card so this means you will have a significant amount of performance gain with minimal visual loss. With ENB Support, you can gain up to 20-30fps on good machines.
 
 ##### Installing and configuring DLSS
+
+Begin by downloading the latest version of DLSS for Skyrim SE from PureDark's Patreon. Install it in Mod Organizer 2 like a regular mod: in Mod Organizer 2, do `Ctrl + M`. A pop-up will appear. Navigate to you files and find the DLSS mod archive (.7z or .zip) you just installed. Click open, and click ok. Congratulation, you just installed DLSS!
+
+Now we will focus on how to configure it: Right click on the mod, click `open in Explorer...` and then navigate to SKSE/Plugins/ and then open `SkyrimUpscaler.ini`.
+Change the following settings:
+- For Nvidia Card Users:
+  - mUpscaleType = 1 -> 0
+  - mQualityLevel = 2 -> 1
+- For AMD Card Users:
+  - mQualityLevel = 2 -> 1 
+- For Intel Card Users:
+  - mUpscaleType = 1 -> 2
+  - mQualityLevel = 2 -> 1
+
+Save the changes. Now in order to make it work properly, you need to disable TAA and Edge AA from Game .inis and ENB .inis. Once done, DLSS will be ready to work in-game. 
+DLSS comes with an integrated control panel in-game. To activate/deactivate it, simply use `END` key. You can change here sharpness, mipmap...
 
 ## Using The List
 
