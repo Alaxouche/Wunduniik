@@ -13,10 +13,12 @@ A Skyrim SE Heavy Modlist Installer.
   - [Pre-Installation](#pre-installation)
   - [Wabbajack Installation](#wabbajack-installation)
   - [Post-Installation](#post-installation)
-    - [Additional Files](#additional-files)
     - [Load Order Sorting](#load-order-sorting)
     - [BethINI and INIs](#bethini-and-inis)
     - [ENB](#enb)
+    - [DLSS](#dlss)
+      - [What is DLSS](#what-is-dlss)
+      - [Installing and Configuring DLSS](#installing-and-configuring-dlss)
 - [Using The List](#using-the-list)
   - [Starting The List](#starting-the-list)
   - [Configuring MCM](#configuring-mcm)
@@ -42,7 +44,7 @@ A Skyrim SE Heavy Modlist Installer.
 
 *"I decided to create this modlist because people kept asking how I got Skyrim to look so good. I know that when you begin, it can be hard to mod correctly and you can quickly be lost, but following this guide will help you build the Skyrim of your dreams! This very extended and detailed modlist will help you understand modding \minimizing bugs and conflicts to allow for a completely immersive gameplay experience. This is how I think the game is perfect, but if you think something could be better, the choice is yours. For each graphic mod I use 2K resolution, but you should install a range between 1K and 4K (8K sometimes, if your PC can handle it). I don't recommend installing less than 1K resolution textures."*
 
-This modlist is an heavy +1200 mods list based on **my** personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2022 game than a 2011 game. Keep in ming that the list is more like a vanilla rework than a list adding new quests, new lands...
+This modlist is an heavy +1500 mods list based on **my** personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in ming that the list is more like a vanilla rework than a list adding new quests, new lands...
 Wunduniik is a draconic word meaning "Traveler". I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlsit will provide you the same feeling, because you will almost discover a new game.
 
 # Disclaimer
@@ -62,11 +64,18 @@ Minimum Specs:
 - Storage: a 500GB SSD is the best, but a HDD will do the work
 - Screen: FHD Screen in 60Hz (keep in mind that having higher resolution will decrease performances so you must have a good pc)
 
+Recommended Specs:
+- CPU: I7-10th Gen or AMD Equivalent
+- Ram: 16GB DDR5
+- GPU: RTX 3060TI
+- Storage: a 1TB SATA III/M.2 SSD 
+- Screen: FHU Screen in 144Hz
+
 In comparison here are my specs:
 - CPU: I7-7700
 - RAM: Corsair Vengeance 16GB DDR4
-- GPU: GTX 1070 (Overcloaked)
-- Storage: 500GB SSD
+- GPU: RTX 3060TI
+- Storage: 1TB SATA III Samsung SSD
 - Screen: FHD Screen in 60Hz
 
 ### Necessary And Useful Applications
@@ -74,7 +83,7 @@ In comparison here are my specs:
 For the modlist to work you must have some apps:
 Please ensure you have .NET v5.0 or higher installed. Download the **desktop app installer and console app x64** from Microsoft here https://dotnet.microsoft.com/download/dotnet/5.0/runtime, and also [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
-To help you with the INIs configuration, I highly recommand to have installed [Notepad ++](https://notepab-plus-plus.biz)
+To help you with the INIs configuration, I highly recommand to have installed Sublime Text](https://www.sublimetext.com/)
 
 ## Installation
 
@@ -89,22 +98,6 @@ Before installing the modlist, here are some things you **must** do:
 ### Wabbajack Installation
 
 ### Post Installation
-
-#### Additional Files
-
-Some file are not on the Wabbajack Whitelist and tho cannot be added directly to the Wabbajack installation. To add them to your game, you must follow the next steps:
-
-- Download the [Wunduniik Manual Mods](https://drive.google.com/drive/folders/1Sy9eiTBDklq6i196Qv-f2UJ2wNCtIX3q?usp=sharing)
-- Copy them to the instance download folder (C:\Games\Wunduniik\downloads)
-- In Mod Organizer 2, install the mods in their appropriate categories:
-  - `Happy Little Trees Toxic Edit {}` goes to `Environement`, under `Ancient Lands` 
-  - `Mat Enhanced River {}` goes to `Environement`, under `Veydosebrom Regions for ENB Complex Grass ()`
-  - `More Flowers` goes to `Environement`, place it where you want inside, it doesn't matter
-  - `Unofficial Skyrim Special Edition Patch` goes to `Foundation`, above `Cleaned Skyrim Textures`
-  - `Near Creature Skeleton {}` goes to `Immersion And Overhauls`, place it where you want inside
-  - `Blubbo Gildergreen Tree Replacer {}` goes to `Environment`, under `Ancient Trees of Skyrim`
-  - Merge other Blubbo's mods into one called `Fun Flags Blubbo {}`, place it above `Blubbos Fun Flags Whiterun` in `Cities & Towns`
-  - Photogrammetry Ported mods go to `Textures - Flora`, place them where you want inside, it doesn't matter 
   
 #### Load Order Sorting
 
@@ -124,7 +117,7 @@ BethINI is a really useful tool to edit your `Skyrim.ini`, `SkyrimCustom.ini` an
     
       Those 2 lines can be changed directly through the Skyrim Launcher or BethINI
   - [Launcher]
-    - sD3DDevice="NVIDIA GeForce GTX 1070" -> Change this with you GPU name
+    - sD3DDevice="NVIDIA GeForce RTX 3060TI" -> Change this with you GPU name
 - Skyrim.ini:
   - [Display]
     - sScreenShotBaseName=C:\Games\The Elder Scrolls - Skyrim - Special Edition\Screenshots\Screenshots -> Create a folder called `Screenshots` and replace this line         with the path leading to the new folder. Also you can change this using BethINI.
@@ -149,6 +142,17 @@ Also to help you with the ENB management, I strongly advise you the [ENB Organiz
 ![image](https://i.redd.it/tnpyve3el7291.png)
 
 4- If you want to add your presets, follow the instructions directly on the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) mod page.
+
+#### DLSS
+
+For a performance matter, I higly recommend you to install the [DLSS mod support for ENB](https://www.patreon.com/PureDark), that is paywalled (thats why i can't use it in the list directly) as it's still in development. 
+
+##### What is DLSS?
+
+DLSS is an upscaling method use by Nvidia cards (there are equivalents for AMD and Intels) that works by lowering your game resolution and then upscaling it to the original resolution using AI. This means that if you play originally on a 2K resolution, DLSS will lower for example to FHD and then using AI upscale, imitate the 2K resolution. 
+This method tricks the graphic card so this means you will have a significant amount of performance gain with minimal visual loss. With ENB Support, you can gain up to 20-30fps on good machines.
+
+##### Installing and configuring DLSS
 
 ## Using The List
 
