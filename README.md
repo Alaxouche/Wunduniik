@@ -122,12 +122,12 @@ Once you have done everything said above, you can start the installation process
 
 Now you can follow the next steps in order to download and install Wunduniik Modlist properly:
 1. Open Wabbajack and click on browse modlists.
-2. Press the download button on AVO and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\AVO. Do not install it to your desktop or downloads folder.
+2. Press the download button on Wunduniik and wait for it to download.
+3. Set the installation folder to be somewhere like C:\Games\Wunduniik. Do not install it to your desktop or downloads folder.
 4. The download location does not need to be on a SSD but it makes installing a bit faster
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
-7. If the installation is successful, jump for joy and move onto post installation. If the installation is unsuccessful, follow what is below.
+7. The installation is now complete. You can move on to the next section. If you have issues with installation, you can refer to Wabbajack Installation Issues
 
 ### Even if Wabbajack say installation complete, this doesn't mean you have finished. You _Must_ follow the rest of the installation guide in order to have the list working properly. Otherwise you will have big issues.
 
