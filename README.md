@@ -116,6 +116,8 @@ So the Wabbajack Installation happens without problem, you must connect/create a
 
 ### Wabbajack Installation
 
+Once you have done everything said above, you can start the installation process. To begin with, download the last version of Wabbajack in a folder like `C:/Games/Wabbajack`. It is important that you install it outside __Download__
+
 ### Post Installation
   
 #### Load Order Sorting
