@@ -24,6 +24,7 @@ A Skyrim SE Heavy Modlist Installer.
     - [Necessary Tweaks](#necessary-tweaks)
     - [Accounts & Websites](#accounts-and-websites)
   - [Wabbajack Installation](#wabbajack-installation)
+  - [Problems With Installation](#problem-with-installation)
   - [Post-Installation](#post-installation)
     - [Load Order Sorting](#load-order-sorting)
     - [BethINI and INIs](#bethini-and-inis)
@@ -103,11 +104,11 @@ To help you with the INIs configuration, I highly recommand to have installed Su
 #### Necessary Tweaks
 
 Before installing the modlist, here are some things you **must** do:
-- Buy a **legal** copy of Skyrim Special Edition from Steam
-- Install (or Uninstall your game and re-Install) your game it a custom folder outside C:\Progam Files... (for exemple i installed it in C:\Games) and also make sure     it is installed in the disk with more free space!
-- Change Skyrim so it does not automatically update (Important!).
-- Wunduniik makes use of **Stock Game System**, so every files contained in my Game folder will be installed for you.
-- Install Mod Organizer 2 in a custom location (but still in the disk with more free space!), such as C:\Modding
+1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop & Console x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
+4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
+5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 
 #### Accounts and Websites
 
@@ -118,30 +119,43 @@ So the Wabbajack Installation happens without problem, you must connect/create a
 
 ### Wabbajack Installation
 
-Once you have done everything said above, you can start the installation process. To begin with, download the last version of Wabbajack in a folder like `C:/Games/Wabbajack`. It is important that you install it outside **Download**, **Program Files** and **Desktop**. Also if you have multiple disks, I highly recommend you to install it on your fastest one (a SSD is faster than a HDD).
+Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
+
+Downloading and installing Wunduniik can take a while depending on your internet connection and computer. To install the list, complete the following
 
 Now you can follow the next steps in order to download and install Wunduniik Modlist properly:
 1. Open Wabbajack and click on browse modlists.
 2. Press the download button on Wunduniik and wait for it to download.
 3. Set the installation folder to be somewhere like C:\Games\Wunduniik. Do not install it to your desktop or downloads folder.
-4. The download location does not need to be on a SSD but it makes installing a bit faster
+4. The download location does not need to be on a SSD but it makes installing a bit faster.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
 7. The installation is now complete. You can move on to the next section. If you have issues with installation, you can refer to Wabbajack Installation Issues
 
 ### Even if Wabbajack say installation complete, this doesn't mean you have finished. You _Must_ follow the rest of the installation guide in order to have the list working properly. Otherwise you will have big issues.
 
+#### Problems With Installation
+
+It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+
+- Could not download x:
+	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+
 ### Post Installation
   
 #### Load Order Sorting
 
-If needed (or if you added new mods with plugins), it's highly recommanded that you sort your modlist. To do so, launch Mod Organizer 2, and add as executable `LOOT.exe`. Now run LOOT to the executable list. To help you, I already made some configurations for a correct Load Order. Here is the [LOOT Settings](https://drive.google.com/file/d/1-zJu53bN4NCCfUx9K3jNiD_4oXQYMCot/view?usp=sharing) I use. Extract its content in "Your Disk"\Users\"Your User Profile"\AppData\Local\LOOT\games\Skyrim Special Edition. 
+- x is not a whitelisted download:
+  - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
+  	 
+- Wabbajack could not find my game folder:
+	- Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
 
-Tip: to get access to Appdata if you can't see it, in your files explorer, go to options, Display, and tick "display hidden files and folders":
-
-![image](https://i.redd.it/9gy3rgdmgu191.png)
 
 #### BethINI and INIs
+
+- Antivirus reports a virus:
+	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 BethINI is a really useful tool to edit your `Skyrim.ini`, `SkyrimCustom.ini` and `SkyrimPrefs.ini`. I already provided you my INIs, but some lines might not be set up correctly for your computer. Here are the lines you must check before starting your game:
 - SkyrimPrefs.ini:
@@ -156,6 +170,18 @@ BethINI is a really useful tool to edit your `Skyrim.ini`, `SkyrimCustom.ini` an
   - [Display]
     - sScreenShotBaseName=C:\Games\The Elder Scrolls - Skyrim - Special Edition\Screenshots\Screenshots -> Create a folder called `Screenshots` and replace this line         with the path leading to the new folder. Also you can change this using BethINI.
 
+#### Changing screen resolution
+
+It is recommended to check the ini files in Beth-Ini to make sure that your screen resolution matches what the files are set to. To do this, complete the following.
+
+1. Close Mod Organizer 2.
+2. Navigate to the tools folder and launch `BethIni`
+3. In the `Basic` section on the first page, make sure the screen resolution matches.
+4. In the `General` section, make sure the `Screenshots Directory` is set to where you want your screenshots to go.
+5. Navigate back to the basic tab.
+6. Press `Save`
+
+***
 
 #### ENB
 
@@ -163,19 +189,19 @@ Wunduniik was designed and set up to be used with [Rudy ENB for Cathedral Weathe
 
 Also to help you with the ENB management, I strongly advise you the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077). It will allow you to prepare presets of ENBs you can easely switch as it will remember the files used and their configurations. Here is how you may use/set up it:
 
-1- Launch ENB Organizer through Mod Organizer 2:
+1. Launch ENB Organizer through Mod Organizer 2:
 
 ![image](https://i.redd.it/bejqj491l7291.png)
 
-2- Browse to the preset section:
+2. Browse to the preset section:
 
 ![image](https://i.redd.it/0ju9g2a3l7291.png)
 
-3- Select one of the different ENB presets available for the list (all are compatible with the list's weather mod, Cathedral Weather):
+3. Select one of the different ENB presets available for the list (all are compatible with the list's weather mod, Cathedral Weather):
 
 ![image](https://i.redd.it/tnpyve3el7291.png)
 
-4- If you want to add your presets, follow the instructions directly on the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) mod page.
+4. If you want to add your presets, follow the instructions directly on the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) mod page.
 
 #### DLSS
 
@@ -203,6 +229,7 @@ Change the following settings:
 
 Save the changes. Now in order to make it work properly, you need to disable TAA and Edge AA from Game .inis and ENB .inis. Once done, DLSS will be ready to work in-game. 
 DLSS comes with an integrated control panel in-game. To activate/deactivate it, simply use `END` key. You can change here sharpness, mipmap...
+If you don't know what DLSS is, read this guide [here](https://www.nvidia.com/en-gb/geforce/technologies/dlss/)
 
 ## Using The List
 
@@ -210,9 +237,11 @@ DLSS comes with an integrated control panel in-game. To activate/deactivate it, 
 
 Open `Mod Organizer.exe` and launch `SKSE` through the executables. As the modlist is quite big , depending on your pc, it may take some time to load the game. **THIS IS NORMAL DON'T PANIC!** Also I advise you to add Modding folder and Skyrim folder as exeptions in your Antivirus, it may cause some issues and even crashes.
 
+**Note**: I recommend adding the list to you antivirus exceptions list as it will potentially stop it from interfering.
+
 ### Configuring MCM
 
-MCM have been configured thanks to [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719). However if you don't like my settings, it's up top you to change them, but with the amount of MCM, it may take some time. Here is my configuration for (almost) all MCM:
+ALL MCM's have been pre-configured via [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719), however you can change the settings if you don't like them.
 
 ## Updating the List
 
@@ -226,11 +255,13 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Editing the List
 
-I know some of you will surely find things to change because of personnal preferences. To help you with the edition of the list, I added some symbols to retreive what kind of mods are on the list:
-- **Mods tagged with `Basic Fomod`:** those mods are regular Fomods, with only add-ons and options, no patches for other mods.
-- **Mods tagged with `Patches Fomod`:** those mods are Fomods that include patches for other mods, and they may also include add-ons and options.
-- **Mods tagged with `Unpublished`:** those mods are mods not published on the Nexus. 
-- **Mods tagged with `Output`:** those mods are files generated by modding tools such as Nemesis, DynDOLOD and can be regenerated if you need to.
+It is possible that you might not like some of the items in the list and wish to change them to your personal preferences. To make this easier, I have added some special tags to indicate what they are.
+
+Key:
+- `Basic Fomod`: Regular fomod with only add-ons and other options. No patches for other mods.
+- `Patches Fomod`: Self-explanatory and may contain add-ons and other options.
+- `Unpublished`: Again, self-explanatory.
+- `Output`: These are files I have generated for the list. You can and should regenerate them if you change something that affects them.
 
 ## Removing the List
 
@@ -301,11 +332,11 @@ As I already said it, the modlist is exclusively in 2K. This means that every fi
 
 ## Credits and Thanks
 
-- First thanks to **You** for downloading the list and reading this. The modlist is alive because of you.
-- Thanks to Halgari and everyone the Wabbajack Team, without whom this list would surely never have seen the daylight.
-- thanks to Althro and the Animonculory Team for their support and feedbacks, you should also check out their [incredible list](https://www.wabbajack.org/modlist/Animonculory/AVO).
-- Thanks to AvatarV who helped me a lot with the Trailer video for the list.
-- And of course thanks to every modders whose mods I used for the list.
+- **You** for downloading the list and reading this. You're awesome.
+- Halgari and the Wabbajack Team. Without Wabbajack, this list would not exist.
+- Althro and the Animonculory Team for their support and feedback. You should also check out their [incredible lists](https://github.com/The-Animonculory/AnimonculoryWJLists/blob/main/README.md).
+- AvatarV who helped make the trailer for the list.
+- All the modders who make mods. Without you, there'd be no list.
 
 ## Contact Me
 
