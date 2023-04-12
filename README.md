@@ -12,7 +12,7 @@
 
 # Wunduniik
 
-A Skyrim SE Heavy Modlist Installer.
+A Skyrim Special Edition Wabbajack Modlist Installer.
 
 ## Summary
 - [Preamble](#preamble)
@@ -24,7 +24,7 @@ A Skyrim SE Heavy Modlist Installer.
     - [Necessary Tweaks](#necessary-tweaks)
     - [Accounts & Websites](#accounts-and-websites)
   - [Wabbajack Installation](#wabbajack-installation)
-  - [Problems With Installation](#problem-with-installation)
+  - [Problems With Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Load Order Sorting](#load-order-sorting)
     - [BethINI and INIs](#bethini-and-inis)
@@ -80,13 +80,13 @@ Recommended Specs:
 
 | CPU | GPU |  RAM  | Storage | Screen | FPS |
 | ------------- |------------- | ----- | ----- | ----------- | ---------- |
-| I7-9700k | Nvidia RTX 3060TI | 16GB RAM DDR5 | 1 TB SATA III/M.2 SSD | FHD 144Hz Screen | 50 |
+| I7-9700k | Nvidia RTX 3060TI | 32GB RAM DDR5 | 1 TB SATA III/M.2 SSD | FHD 144Hz Screen | 60 |
 
 In comparison here are my specs:
 
 | CPU | GPU |  RAM  | Storage | Screen | FPS |
 | ------------- |------------- | ----- | ----- | ----------- | ---------- |
-| I7-7700 | Nvidia RTX 3060TI | 16GB RAM DDR4 | 1TB SATA III SSD | FHD 60Hz Screen | 45 |
+| I7-7700 | Nvidia RTX 3060TI | 16GB RAM DDR4 | 1TB SATA III SSD | FHD 60Hz Screen | 42 |
 
 ### Necessary And Useful Applications
 
@@ -97,7 +97,27 @@ Please ensure you have .NET v5.0 or higher installed. Download the **desktop app
 
 To help you with the INIs configuration, I highly recommand to have installed Sublime Text](https://www.sublimetext.com/)
 
+### PageFile Configuration
+
+  1. Press **Windows + R** on your keyboard
+  2. Type **sysdm.cpl ,3**
+  3. press **Enter**
+  4. Under the Performance section, press **'Settings'**
+  5. Click the **Advanced** tab at the top
+  6. at the Virtual memory section press **'Change...'**
+  7. Disable **'Automatically manage paging file size for all drives'**
+  8. Click **"Custom size:"**
+  9. Set a custom size for the drive Skyrim is installed on with a mininum of at least **20480MB** (40960MB if higher)
+  10. Click Set
+  11. Click apply & OK
+  12. Press Yes to restart
+  13. Restart your computer.
+
+#### THIS IS NOT OPTIONAL, YOU CANNOT SKIP THIS STEP EVEN IF YOU HAVE 256 GB OF RAM.
+
 ## Installation
+
+Installing Wunduniik is not hard and, if you have nexus premium, is more of a waiting game. If you are updating, you can safely skip to updating.
 
 ### Pre-Installation
 
@@ -239,9 +259,9 @@ Open `Mod Organizer.exe` and launch `SKSE` through the executables. As the modli
 
 **Note**: I recommend adding the list to you antivirus exceptions list as it will potentially stop it from interfering.
 
-### Configuring MCM
+### Configuring MCM 
 
-ALL MCM's have been pre-configured via [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719), however you can change the settings if you don't like them.
+ALL MCM's have been pre-configured via [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) and Settings Loader mods, however you can change the settings if you don't like them.
 
 ## Updating the List
 
