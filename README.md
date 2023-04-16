@@ -160,6 +160,8 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+Here are the files that commonly fail you can download from there:
+- [Marsh Trees](https://drive.google.com/file/d/1rlbyhbo4P9zN7fOGAaFPA1FkIIODdDvc)
 
 ### Post Installation
   
