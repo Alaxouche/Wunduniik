@@ -1,34 +1,39 @@
 [
   {
     "title": "Wunduniik",
-    "description": "This modlist is an heavy +1900 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning \"Traveler\". I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
+    "description": "This modlist is an heavy \u002B1900 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning \u0022Traveler\u0022. I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
     "author": "Alaxouche",
     "maintainers": [
       "github/Alaxouche"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "testing",
       "WIP"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Final.webp",
       "readme": "https://github.com/Alaxouche/Wunduniik#readme",
-      "download": "https://authored-files.wabbajack.org/Wunduniik%20.wabbajack_e393277c-4a5c-499e-b827-e262653c06a5",
+      "download": "https://authored-files.wabbajack.org/Wunduniik .wabbajack_2b363aa4-6263-475d-a710-ae848e1a1ab6",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/2BWpEdxwNf"
     },
     "download_metadata": {
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "8baUSTnMkjs=",
+      "Size": 550873486,
+      "NumberOfArchives": 2283,
+      "SizeOfArchives": 132199347350,
+      "NumberOfInstalledFiles": 225187,
+      "SizeOfInstalledFiles": 212954620879
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-04-20T10:15:23.6636567Z",
+    "repositoryName": ""
   }
 ]
