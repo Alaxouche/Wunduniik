@@ -13,14 +13,14 @@
       "<any tags you want in the UI, each in its own string"
     ],
     "nsfw": false,
-    "image_contains_title": true,
+    "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.redd.it/jvzzn99stzua1.png",
       "readme": "https://github.com/Alaxouche/Wunduniik#readme",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "Alaxouche/Wunduniik",
+      "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/2BWpEdxwNf"
     },
     "download_metadata": {
@@ -32,6 +32,6 @@
       "NumberOfInstalledFiles": 1311,
       "SizeOfInstalledFiles": 336453775
     },
-    "version": "1.0"
+    "version": "1.0.0"
   }
 ]
