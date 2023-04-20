@@ -57,8 +57,8 @@ A Skyrim Special Edition Wabbajack Modlist Installer.
 
 *"I decided to create this modlist because people kept asking how I got Skyrim to look so good. I know that when you begin, it can be hard to mod correctly and you can quickly be lost, but following this guide will help you build the Skyrim of your dreams! This very extended and detailed modlist will help you understand modding \minimizing bugs and conflicts to allow for a completely immersive gameplay experience. This is how I think the game is perfect, but if you think something could be better, the choice is yours. For each graphic mod I use 2K resolution, but you should install a range between 1K and 4K (8K sometimes, if your PC can handle it). I don't recommend installing less than 1K resolution textures."*
 
-This modlist is an heavy +1500 mods list based on **my** personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in ming that the list is more like a vanilla rework than a list adding new quests, new lands...
-Wunduniik is a draconic word meaning "Traveler". I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlsit will provide you the same feeling, because you will almost discover a new game.
+This modlist is a heavy +1900 mods list based on **my** personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands...
+Wunduniik is a draconic word meaning "Traveler". I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.
 
 # Disclaimer
 
@@ -107,7 +107,7 @@ To help you with the INIs configuration, I highly recommand to have installed Su
   6. at the Virtual memory section press **'Change...'**
   7. Disable **'Automatically manage paging file size for all drives'**
   8. Click **"Custom size:"**
-  9. Set a custom size for the drive Skyrim is installed on with a mininum of at least **20480MB** (40960MB if higher)
+  9. Set a custom size for the drive Skyrim is installed on with a minimum of at least **20480MB** (40960MB if higher)
   10. Click Set
   11. Click apply & OK
   12. Press Yes to restart
@@ -141,13 +141,13 @@ So the Wabbajack Installation happens without problem, you must connect/create a
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-Downloading and installing Wunduniik can take a while depending on your internet connection and computer. To install the list, complete the following
+Downloading and installing Wunduniik can take a while depending on your internet connection and computer. To install the list, complete the following.
 
 Now you can follow the next steps in order to download and install Wunduniik Modlist properly:
 1. Open Wabbajack and click on browse modlists.
 2. Press the download button on Wunduniik and wait for it to download.
 3. Set the installation folder to be somewhere like C:\Games\Wunduniik. Do not install it to your desktop or downloads folder.
-4. The download location does not need to be on a SSD but it makes installing a bit faster.
+4. The download location does not need to be on an SSD but it makes installing a bit faster.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
 7. The installation is now complete. You can move on to the next section. If you have issues with installation, you can refer to Wabbajack Installation Issues
@@ -208,9 +208,9 @@ It is recommended to check the ini files in Beth-Ini to make sure that your scre
 
 #### ENB
 
-Wunduniik was designed and set up to be used with [Rudy ENB for Cathedral Weathers - Zangdar Edit](https://www.nexusmods.com/skyrimspecialedition/mods/39113) last version, but you can change it if you don't like it.
+Wunduniik was designed and set up to be used with Cabbage ENB for NAT III Weather, but you can change it if you don't like it.
 
-Also to help you with the ENB management, I strongly advise you the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077). It will allow you to prepare presets of ENBs you can easely switch as it will remember the files used and their configurations. Here is how you may use/set up it:
+Also to help you with the ENB management, I strongly advise you the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077). It will allow you to prepare presets of ENBs you can easily switch as it will remember the files used and their configurations. Here is how you may use/set up it:
 
 1. Launch ENB Organizer through Mod Organizer 2:
 
@@ -228,7 +228,7 @@ Also to help you with the ENB management, I strongly advise you the [ENB Organiz
 
 #### DLSS
 
-For a performance matter, I higly recommend you to install the [DLSS mod support for ENB](https://www.patreon.com/PureDark), that is paywalled (thats why i can't use it in the list directly) as it's still in development. 
+For a performance matter, I highly recommend you to install the [DLSS mod support for ENB](https://www.patreon.com/PureDark), that is paywalled (that's why I can't use it in the list directly) as it's still in development. 
 
 ##### What is DLSS?
 
@@ -237,7 +237,7 @@ This method tricks the graphic card so this means you will have a significant am
 
 ##### Installing and configuring DLSS
 
-Begin by downloading the latest version of DLSS for Skyrim SE from PureDark's Patreon. Install it in Mod Organizer 2 like a regular mod: in Mod Organizer 2, do `Ctrl + M`. A pop-up will appear. Navigate to you files and find the DLSS mod archive (.7z or .zip) you just installed. Click open, and click ok. Congratulation, you just installed DLSS!
+Begin by downloading the latest version of DLSS for Skyrim SE from PureDark's Patreon. Install it in Mod Organizer 2 like a regular mod: in Mod Organizer 2, do `Ctrl + M`. A pop-up will appear. Navigate to your files and find the DLSS mod archive (.7z or .zip) you just installed. Click open, and click ok. Congratulation, you just installed DLSS!
 
 Now we will focus on how to configure it: Right click on the mod, click `open in Explorer...` and then navigate to SKSE/Plugins/ and then open `SkyrimUpscaler.ini`.
 Change the following settings:
@@ -258,9 +258,9 @@ If you don't know what DLSS is, read this guide [here](https://www.nvidia.com/en
 
 ### Starting The List
 
-Open `Mod Organizer.exe` and launch `SKSE` through the executables. As the modlist is quite big , depending on your pc, it may take some time to load the game. **THIS IS NORMAL DON'T PANIC!** Also I advise you to add Modding folder and Skyrim folder as exeptions in your Antivirus, it may cause some issues and even crashes.
+Open `Mod Organizer.exe` and launch `SKSE` through the executables. As the modlist is quite big, depending on your pc, it may take some time to load the game. **THIS IS NORMAL DON'T PANIC!** Also I advise you to add Modding folder and Skyrim folder as exeptions in your Antivirus, it may cause some issues and even crashes.
 
-**Note**: I recommend adding the list to you antivirus exceptions list as it will potentially stop it from interfering.
+**Note**: I recommend adding the list to your antivirus exceptions list as it will potentially stop it from interfering.
 
 ### Configuring MCM 
 
@@ -272,7 +272,7 @@ If this Modlist receives an update, please check the Changelog before doing anyt
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save compatible. Your downloads folder will not be touched!
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save-compatible. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the overwrite existing Modlist button.
 
@@ -288,7 +288,7 @@ Key:
 
 ## Removing the List
 
-To uninstall the list simply delete the MO2 folder. As Wunduniik uses the Stock Game system, which copies a game installation within it's installation folder, it is entirely self contained.
+To uninstall the list simply delete the MO2 folder. As Wunduniik uses the Stock Game system, which copies a game installation within its installation folder, it is entirely self-contained.
 
 ## FAQ
 
@@ -296,7 +296,7 @@ This section is for now empty, but will fill up with the question that will be a
 
 ### Fix a Crash
 
-If you are playing with my modlist (or any other) and for some reasons, the game crashes, don't panic. It can happen. The first thing we want to know is why doest it crash. To find out, normally once you will go back to Mod organizer 2, the `Overwrite` folder will contain a new folder called ".NetScriptFramework". Expand it until you see a `Crash.txt` file. We will take an example:
+If you are playing with my modlist (or any other) and for some reasons, the game crashes, don't panic. It can happen. The first thing we want to know is why does it crashes. To find out, normally once you will go back to Mod organizer 2, the `Overwrite` folder will contain a new folder called ".NetScriptFramework". Expand it until you see a `Crash.txt` file. We will take an example:
 
 ![image](https://i.redd.it/tlssuy3elu191.png)
 
@@ -304,7 +304,7 @@ We can see on this crash log that in the `Possible Relevant Objects`, the plugin
 
 ### Reporting an Issue
 
-If, during your playthrough, you encounter any bug, incompatibily, that may disturb your gameplay/immersion, I invite you to head over my discord server and to share the bug you found in the dedicated channel, so I can try to fix it for a future update. We are working together to make this modlist always better!
+If, during your playthrough, you encounter any bug, incompatibility, that may disturb your gameplay/immersion, I invite you to head over my discord server and to share the bug you found in the dedicated channel, so I can try to fix it for a future update. We are working together to make this modlist always better!
 
 ### Wide and Ultrawide Screens Options
 
@@ -349,7 +349,7 @@ It is also possible that some of your INI settings are really unoptimized and ma
 
 #### Mods Configuration
 
-As I already said it, the modlist is exclusively in 2K. This means that every files, including effects such as mists, dadelion seeds, ripples... are in 2K. You can lower them, as well as some clutter retextures, in 1K if you estimate that 2K is not necessary. You may not find a big difference between 1K and 2K for those files. Also, you can change some settings in the Fomods ([Editing the Modlist](#editing-the-modlist)).
+As I already said it, the modlist is exclusively in 2K. This means that every file, including effects such as mists, dandelion seeds, ripples... are in 2K. You can lower them, as well as some clutter retextures, in 1K if you estimate that 2K is not necessary. You may not find a big difference between 1K and 2K for those files. Also, you can change some settings in the Fomods ([Editing the Modlist](#editing-the-modlist)).
 
 **If you have more questions, I invite you to join my Discord Server (Link in [Contact Me](#contact-me))!!**
 
