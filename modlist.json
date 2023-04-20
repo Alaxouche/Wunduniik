@@ -1,8 +1,7 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Wunduniik",
-    "description": "This modlist is an heavy +1900 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning "Traveler". I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
+    "description": "This modlist is an heavy +1900 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning \"Traveler\". I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
     "author": "Alaxouche",
     "maintainers": [
       "github/Alaxouche"
@@ -10,13 +9,12 @@
     "game": "skyrimspecialedition",
     "tags": [
       "testing",
-      "<any tags you want in the UI, each in its own string"
+      "WIP"
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://i.redd.it/jvzzn99stzua1.png",
       "readme": "https://github.com/Alaxouche/Wunduniik#readme",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
@@ -24,7 +22,6 @@
       "discordURL": "https://discord.gg/2BWpEdxwNf"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "e1+K7eJbDJw=",
       "Size": 0,
       "NumberOfArchives": 14,
