@@ -69,6 +69,7 @@ Wunduniik is a draconic word meaning "Traveler". I chose this one as I think tha
 ### Pc Minimum And Recommanded Components
 
 As Wunduniik is a modlist modlist based on graphics, you must have a good GPU.
+#### YOU NEED 321 GB free to download the modlist!
 
 Minimum Specs:
 
