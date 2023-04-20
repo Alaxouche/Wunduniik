@@ -1,4 +1,4 @@
-![Logo](https://i.redd.it/1tfaz3eeas191.png)
+![Logo](https://i.redd.it/jvzzn99stzua1.png)
 
 ---
 
