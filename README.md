@@ -74,7 +74,7 @@ Minimum Specs:
 
 | CPU | GPU |  RAM  | Storage | Screen | FPS |
 | ------------- |------------- | ----- | ----- | ----------- | ---------- |
-| I5-7600k | Nvidia GTX 1080 | 16GB RAM DDR4 | 500 GB SATA II SSD | FHD 60Hz Screen | 35 |
+| I5-7600k | Nvidia GTX 1080 | 16GB RAM DDR4 | 500 GB SATA II SSD | FHD 60Hz Screen | 38 |
 
 Recommended Specs:
 
@@ -86,7 +86,7 @@ In comparison here are my specs:
 
 | CPU | GPU |  RAM  | Storage | Screen | FPS |
 | ------------- |------------- | ----- | ----- | ----------- | ---------- |
-| I7-7700 | Nvidia RTX 3060TI | 16GB RAM DDR4 | 1TB SATA III SSD | FHD 60Hz Screen | 42 |
+| I7-7700 | Nvidia RTX 3060TI | 16GB RAM DDR4 | 1TB SATA III SSD | FHD 60Hz Screen | 48 |
 
 ### Necessary And Useful Applications
 
