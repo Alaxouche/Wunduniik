@@ -1,0 +1,76 @@
+# What's New on v1.0.3 ?
+- Added Diamond Body CBBE 3BA
+- Added Vanilla Clothes and Armor - CBBE 3BA
+- Added Water in Wash Basins - Mesh-only Replacer
+- Added Dragonborn Voice Over
+- Added Celtic Music in Skyrim
+- Added Solstheim Ash Storms with Glowing Embers
+- Added Clevercharff's Whiterun
+- Added Male Player Animations (DAR)
+- Added Female Player Animations (DAR)
+- Added Go to Bed
+- Added Bloodmoon
+- Added Ferrum Nibenis
+- Added FrozenLands
+- Added Donate More Gold to Maramal
+- Added Mara Statue Retexture
+- Added Two new presets, thanks to Swift_Dude
+- Fixed errors in CCOTN Falkreath - Nature of The Wild Lands patch.esp that might cause crashes
+- Fixed weird glow in character and NPCs during rain/snow weathers
+- Fixed power attack triggering only on combo attack
+- Fixed Flying Fred Dark Face 
+- Purged the conflict losing loose files from mods to save space and performances: saved 400Mb
+- Remade EasyNPC Thing
+- Remade the bodyslide output for female to have a more realistic body style
+- Re-integrated A Matter of Time - HUD Preset - Settings Loader
+- Removed Equippable Underwears for NPCs, causing NPCs body issues
+- Removed Projectiles - DXPMCO
+- Removed SPID Armor Distribution - NordwarUA's Sons of Skyrim Armor Distribution (S.A.D. - SoSAD)
+- Removed Housecarls - Sons of Skyrim (SPID)
+- Removed Even More Expressive High And Low Poly Facial Animation
+- Removed Character Creation Overhaul - Races - Birthsigns - Classes - Skills - Specializations - Attributes
+- Tweaked Discord Rich Presence to add modlist link to the user's profile playing it
+- Updated Maximum Carnage
+- Updated Abyss
+- Updated PAPER
+- Updated Icy Meshes Remaster
+- Updated Northern Roads - Patches Compendium
+- Updated Enhanced Landscapes - Dead Marsh Standalone
+- Updated Faster HDT-SMP
+
+# What's New on v1.0.2 ?
+- Removed unused weather mods (cathedral weather and MCM, solas weather...)
+- Added support for wider screens (21x9 and 32x9) through new mods and profiles
+- Added Growl - Werebeasts of Skyrim
+- Added Pilgrim - A Religion Overhaul
+- Added Lawless - A Bandit Overhaul
+- Added More Realistic Antlers for Female Elks
+- Added Shadow of Skyrim - Nemesis and Alternative Death System
+- Added Character Creation Overhaul - Races - Birthsigns - Classes - Skills - Specializations - Attributes
+- Added Sun Affects NPC Vampires
+- Added Improved Traps
+- Added Vampire Feeding Tweaks
+- Added Pilgrim and Daedric Shrines Consistency and Tweaks
+- Added The Great Town of Shor's Stone - Pilgrim Addon
+- Added Supreme Fog for Morthal Region
+- Added Wunduniik - Other Trees
+- Edited Unique Marsh Trees Leaf Amplitude Values to be less exessive
+- Edited Elden Rim - Weapon Art to remove the magic items already present at the starting of the game
+- ESLified more plugins
+- Fixed Conditional Expressions for NPCs Distri.ini having failing entry
+- Fixed Bound Shields Distri.ini having failing entry
+- Fixed Housecarls - Sons of Skyrim (SPID) Distri.ini having failing entry
+- Fixed Simplest Horses Distri.ini having failing entry
+- Fixed Prince and Pauper Refine Distri.ini having failing entry
+- Purged the conflict losing loose files from mods to save space and performances: saved 19gb
+- Remade DynDOLOD Output
+- Removed Environs - Western WatchTower Doesn't Start Broken
+- Removed Real Names Rebuilt
+- Removed Foggy Morthal and Swamps
+- Removed Realistic Bobbing Boats - Raw Boats
+- Updated Northern Farmhouses
+- Updated Hot Key Skill
+- Updated Unofficial eFPS Patches
+- Updated Embers XD
+- Updated Strongholds - Narzulbur
+- Updated Faster HDT
