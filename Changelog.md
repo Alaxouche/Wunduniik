@@ -1,3 +1,56 @@
+# What's New on v1.0.4 ?
+- Added Iconic's Vampire Lord Retexture
+- Added Riften Temple Sconce Fix
+- Added Ferrum Nibenis - My Patches SE
+- Added The Welkynar Knight - Quest
+- Added Winged Hussar Armor and Weapons 
+- Added Projectiles DXPMCO
+- Added YAR - Yuril's Additional Resources
+- Added Shroud Hearth Barrow Script Fix
+- Added dunFolgunthurBossBattle Script Fix
+- Added DLC2TribalWerebearScript Fix
+- Added DLC2dunSeekerInvisScript Fix
+- Added The Taste of Death Improved Shutdown
+- Added DLC2MiraakScript Fix
+- Added BnP female skin (Replacer version)
+- Fixed Reshade taking ENb files as reshade shaders
+- Fixed the left hand not wanting to attack
+- Fixed the floating chest in Mara Temple
+- Fixed the body issues of the female barkeepers
+- Fixed landscape and brazier at whiterun entrance
+- Fixed frozen menu when remapping hotkeys in MCMs and Controls
+- Fixed more floating signs
+- Fixed the Elsopa buckets not supporting the DLC01 bloody variant
+- Fixed Penitus Armor
+- Remade the DynDOLOD Output to fix the not loading tres in distance
+- Remade the Bodyslide Outputs
+- Removed Stones of Solitude - Majestic Mountains Rocks
+- Removed Cooking Adventures in Skyrim
+- Removed Barkeeper HDT-SMP Outfit Replacer
+- Removed Bijin Skin - CBBE
+- Removed Quick Loot RE
+- Removed Vanilla And Morning Fogs - Easy Seam Fixer
+- Removed Morning Fogs - Settings Loader
+- Removed Morning Fogs
+- Tweaked game speed when entering unpaused menu (50% slower than normal)
+- Updated Animated Forge Water
+- Updated Strongholds - Narzulbur
+- Updated Lawless - A Bandit Overhaul
+- Updated Unofficial eFPS patches
+- Updated Simplicity of Snow
+- Updated Cathedral 3D Mountain Flowers - Base Object Swapper
+- Updated Adamant - A Perk Overhaul
+- Updated Spell Perk Item Distributor
+- Updated Northern Roads - Patches Compendium
+- Updated Hand to Hand - An Adamant Addon
+- Updated Faster HDT-SMP
+- Updated Navigator - Navmesh Fixes
+- Updated Northern Roads Patch Collection
+- Updated Whiterun Defensive Stockade Walls
+- Updated Skyrim Landscape and Water Fixes
+- Updated Snowy Surfaces Sound Collision and Aesthetics 
+
+
 # What's New on v1.0.3 ?
 - Added Diamond Body CBBE 3BA
 - Added Vanilla Clothes and Armor - CBBE 3BA
