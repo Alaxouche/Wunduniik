@@ -128,8 +128,10 @@ Before installing the modlist, here are some things you **must** do:
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop & Console x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
-4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
+4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. Make sure to get an english copy of it.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
+
+#### YOU DON'T NEED TO DOWNGRADE THE GAME, WABBAJACK DOES IT FOR YOU! DOING SO WILL CAUSE INSTALLATION ISSUES
 
 #### Accounts and Websites
 
