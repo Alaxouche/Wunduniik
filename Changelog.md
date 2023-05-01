@@ -106,6 +106,7 @@
 - Updated Animated Interactions And Idles - Settings LoaderAnimated Interactions And Idles - Settings Loader
 - Updated Rainbows Remade
 - Updated Weapon Styles - Draw-Sheathe animations
+- Updated ENBSeries
 
 # What's New on v1.0.4 ?
 - Added Iconic's Vampire Lord Retexture
