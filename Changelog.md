@@ -1,3 +1,112 @@
+# What's New on v1.1.0 ?
+- Added Aspen Ablaze
+- Added Minotaurs - Mihail Monsters and Animals
+- Added Fluffy Minotaurs
+- Added remove button of Better Third Person Selection
+- Added Fulminis - Shock Magic Sounds Overhaul
+- Added Redbag's Falkreath
+- Added Redbag's Falkreath - Patch Collection
+- Added Hibernus - Frost Magic Sounds Overhaul
+- Added Infernorum - Fire Magic Sounds Overhaul
+- Added Vocaris - Conjuration Sounds Overhaul
+- Added Moon Monk 3BA Bodyslide
+- Added Kvetchi Mercenary Armour 3BA with HDT-SMP Cloth Physics
+- Added Eviscerate - Weapons Sounds Redesigned -
+- Added A.S.S. (A Food and Alchemy Addon for B.O.O.B.I.E.S.)
+- Added Floating Creep Cluster Fix
+- Added Bleakwind Basin Floating Sabre Cat Fix
+- Added Joshua Graham (Male Dark Elf-Dunmer) DBVO Voice Pack
+- Added DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+- Added Guardian Shield - God of War
+- Added Kratos Guardian Shield Animated
+- Added CatHub
+- Added bella voice DBVO
+- Added Arclight
+- Added New Weynon
+- Added Fluffy Wall Mounted Dead Animals
+- Added Eyes AO Clipping Fix
+- Added Salt and Wind - Rough Hair for KS Hairdos 
+- Added Remote Interactions
+- Added Remote Interactions - Settings Loader
+- Added Skyland Blacksmith Texture Overhaul
+- Added the Seaons of Skyrim category (NOT FOR USE RIGHT NOW)
+- Created new .ini files for different configurations
+- Created a Synthesis patch to help with the patching situation
+- Changed the Mo2 and game splashes, and Mo2 Icon to a custom one (special thanks to Corsair)
+- Fixed the modlist separator not showing the right version
+- Fixed the crash with Poison Spray Spell
+- Fixed the waiting locked movements
+- Fixed the clipping trees in Granite Hill
+- Fixed mountain rock clipping in Vermin Wood
+- Fixed killmoves not triggering correctly
+- Fixed female body collision acting weird
+- Fixed Twin Blades DAR Priority
+- Fixed more floating objects and bushes
+- Fixed weird emvers glow in forges
+- Fixed the crashes at orc strongholds
+- Fixed more clipping objects with terrain
+- Reimplemented underwears for NPCs to prevent nudity when looking corpses
+- Remade Bodyslide Outputs
+- Remade Lods Outputs
+- Remade NPC Merge Output
+- Removed BTPS - Nordic UI (E) Activation Button Replacer
+- Removed Moon Monk's Robes - CBBE
+- Removed Rustic Death Hounds and Gargoyle
+- Removed Viking Longhouse
+- Removed NORDIC UI - Splash Screen Skin for Desktop Splash Screen
+- Removed Tundra Shrubs Redone
+- Removed NSM - Blacksmith Stuff
+- Removed Minotaurs
+- Removed NVICO
+- Removed Leather and LeatherStrips
+- Removed northbourne NPCs Series
+- Removed Taunt Your Enemies - Taunting Matters - Settings Loader
+- Removed Cities of the North - Falkreath
+- Removed Cities of the North - Falkreath - Patch Collection
+- Removed Cities of the North - Falkreath - Landscape Fixes For Grass Mods Patch
+- Removed Cities of the North - Falkreath - Better Occlusion
+- Removed Rob Bug Fixes - Cities of the North - Falkreath 
+- Removed Faster HDT-SMP - Perfomance Config
+- Reworked the screenshot system
+- Tweaked .ini files for Enhanced Blood textures
+- Updated Iconic's Vampire Lord Retexture
+- Updated Skyrim Arrow Overhaul
+- Updated DynDOLOD Resources
+- Updated Complementary Grass Fixes
+- Updated DynDOLOD DLL - Scripts
+- Updated NPCs Use Potions
+- Updated Maximum Skeletons D-Won Edition
+- Updated B.O.O.B.I.E.S
+- Updated New Patches for Rodryk's Dragon Bridge
+- Updated Spell Perk Item Distributor
+- Updated Ferrum Niberis
+- Updated Ryn's Bleak Falls Tower
+- Updated Paarthurnax - Quest Expansion
+- Updated Icy Mesh Remaster
+- Updated Remiel-Custom Voiced Dwemer Specialist and Companion
+- Updated Ryn's Alchemist's Shack
+- Updated Ryn's Goldenglow Estate
+- Updated Strongholds - Narzulbur
+- Updated Ryn's White River Watch
+- Updated Unofficial eFPS Patches
+- Updated Northern Roads - Patches Compendium
+- Updated FrozenLands
+- Updated BURP Spell Tomes Patches
+- Updated Serana Dialogues Add-On
+- Updated Ferrum Niberis - My Patches
+- Updated Faster HDT-SMP
+- Updated Vulcano
+- Updated Skyrim on Skooma
+- Updated QuickLoot EE - Settings Loader
+- Updated Equippable Underwear for NPCs
+- Updated Whiterun Defensive Stockade Walls
+- Updated Skyrim Arrow Overhaul
+- Updated DLC2dunSeekerInvisScript Fix
+- Updated Serana Dialogue Add-On Patch Hub
+- Updated Animated Interactions And Idles - Settings LoaderAnimated Interactions And Idles - Settings Loader
+- Updated Rainbows Remade
+- Updated Weapon Styles - Draw-Sheathe animations
+
 # What's New on v1.0.4 ?
 - Added Iconic's Vampire Lord Retexture
 - Added Riften Temple Sconce Fix
