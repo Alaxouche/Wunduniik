@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Final.webp",
       "readme": "https://github.com/Alaxouche/Wunduniik#readme",
-      "download": "https://authored-files.wabbajack.org/Wunduniik .wabbajack_62840183-430a-4509-85d9-91c3ebe293c9",
+      "download": "https://authored-files.wabbajack.org/Wunduniik .wabbajack_b9b6e04c-26d8-4c59-9c45-204023d69ac6",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/2BWpEdxwNf"
     },
     "download_metadata": {
-      "Hash": "3w1oGP7lIts=",
-      "Size": 533404467,
-      "NumberOfArchives": 2380,
-      "SizeOfArchives": 145383083653,
-      "NumberOfInstalledFiles": 255168,
-      "SizeOfInstalledFiles": 194468849562
+      "Hash": "2tKqDI5zefI=",
+      "Size": 559029254,
+      "NumberOfArchives": 2402,
+      "SizeOfArchives": 146121607644,
+      "NumberOfInstalledFiles": 266605,
+      "SizeOfInstalledFiles": 196389495770
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-05-02T14:08:57.6944608Z",
+    "dateUpdated": "2023-05-04T08:49:48.2142153Z",
     "repositoryName": ""
   }
 ]
