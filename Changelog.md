@@ -1,3 +1,60 @@
+# What's New on v1.1.1 ?
+- Added Spriggans SE
+- Added Dragonborn Voice Over - Bella
+- Added Forsworn Minotaurs
+- Added Elden Power Attack
+- Added ALT - The Snow Elves Throne
+- Added Detailed Carriages 2.0
+- Added Showing off Stuff - Put random things on plaques - fish paintings doodads
+- Added HDT-SMP Force Fields
+- Added Embers XD - HDT SMP Force Fields Compatibility Patch
+- Added Ferrum Nibenis - Cleaned
+- Added Animated Cart Canopy
+- Added Charming Cart Canopy
+- Added DLC2dunFrostmoonTriggerScript Optimization
+- Added BA Khajiit Speak Redux
+- Added Khajiit Has Wares - A Caravan Camp Overhaul
+- Changed HUD clock and time position
+- Changed Rich Discord Presence so it shows the latest number version
+- Fixed clipping rug in Dragonsreach
+- Fixed clipping tree at hollyfrost farm windmill
+- Fixed floating objects and ladnscape issues at Hollyfrost farm 
+- Fixed floating chest at bleaking basin 
+- Fixed landscape issues at whiterun entrance
+- Fixed overgrowing grass at camp near Helgen
+- Fixed landscape issue at fort Greymoor
+- Fixed the left hand not responding
+- Fixed messy banners at Markarth Entrance
+- Fixed hole in waterfall at Markarth Entrance
+- Fixed landscape gap at Salvius Farm
+- Fixed overbright trees from Erdtrees
+- Fixed purple hantlers for elves NPCs
+- Fixed Bear mounted trophies
+- Fixed floating road signs
+- Fixed low res night sky
+- Fixed some grass on roads near Fort Greymoor and Oakwood
+- Fixed ultra zoomed items in inventory
+- Fixed floating lanterns
+- Fixed clipping strairs with fort corner at Greymoor
+- Removed Bosmer NPCs Have Antlers
+- Removed One Click Power Attack NG
+- Removed Iconic's Spriggan Texture
+- Updated KreatE
+- Updated ELIF Inventory Fix
+- Updated SPID for Footprint Fix
+- Updated Ferrum Niberis - My Patches
+- Updated Faster HDT-SMP
+- Updated HS Ressources
+- Updated Geralt of Rivia DBVO
+- Updated Kratos Guardian Shield Animated
+- Updated Equippable Underwear for NPCs
+- Updated Particle Lights for ENB - Riekling Outposts
+- Updated Fulminis - Shock Magic Sounds Overhaul
+- Updated The Welkynar Knight - Quest
+- Updated Skyland Blacksmith Texture Overhaul
+- Updated Precision- Creatures
+- Updated Infernorum - Fire Magic Sounds Overhaul
+
 # What's New on v1.1.0 ?
 - Added Aspen Ablaze
 - Added Minotaurs - Mihail Monsters and Animals
