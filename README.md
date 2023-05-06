@@ -57,6 +57,9 @@ A Skyrim Special Edition Wabbajack Modlist Installer.
 
 *"I decided to create this modlist because people kept asking how I got Skyrim to look so good. I know that when you begin, it can be hard to mod correctly and you can quickly be lost, but following this guide will help you build the Skyrim of your dreams! This very extended and detailed modlist will help you understand modding \minimizing bugs and conflicts to allow for a completely immersive gameplay experience. This is how I think the game is perfect, but if you think something could be better, the choice is yours. For each graphic mod I use 2K resolution, but you should install a range between 1K and 4K (8K sometimes, if your PC can handle it). I don't recommend installing less than 1K resolution textures."*
 
+[![DeepVoicedGaming Wunduniik Showcase](https://i.ytimg.com/vi/uj7_NHBafY8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIDqYjL8ExlI6lh-a-WlOWLLdkjw)](https://youtu.be/uj7_NHBafY8)
+[![Biggie Boss Wunduniik Review](https://i.ytimg.com/vi/NWWRkg367xA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1xH9Iw7-Lq0pzrIPrgWT1Om9ifw)](https://youtu.be/NWWRkg367xA)
+
 This modlist is a heavy +1900 mods list based on **my** personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands...
 Wunduniik is a draconic word meaning "Traveler". I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.
 
