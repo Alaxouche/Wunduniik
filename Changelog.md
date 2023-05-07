@@ -1,3 +1,96 @@
+#What's New on v1.2.0 ?
+- Added The Witcher Signs
+- Added 3D Door Mine Replacement
+- Added Slightly Improved Nightgate Inn
+- Added Phenomenally Enriched and Nuanced Ingredients for SkyUI
+- Added Falmer Ears
+- Added THICC
+- Added Bells of Skyrim
+- Added Fancy Bells of Skyrim
+- Added Wyrm - Dragon Sounds Rework
+- Added Equus - Horses Sounds Redesigned
+- Added Better Tomboys DAR animations
+- Added Enigma Series Compatibility Patches (Official)
+- Added Formlist Manipulator
+- Added Object Categorization Framework
+- Added Casting Animations for The Witcher Signs
+- Added Falmer Armors and Weapons
+- Added RemoveAllItem Freeze Fix
+- Added Icy Windhelm
+- Added Windhelm Bridge Revived
+- Added Insectoid - Chaurus Sounds Rework
+- Added Shiny ENB Eyebrows Begone
+- Added Airgetlam
+- Added Chaurus Egg and Staff SE
+- Added Hearthfire Crispy Dumplings
+- Added High Poly Milk Jug
+- Added Modern Brawl Bug Fix
+- Added Gems in CGold Purses
+- Added Simply Balanced
+- Added True Armor
+- Added Yet Another Difficulty Mod
+- Added Animated Ice Floes
+- Added Vanguard
+- Added Impactful Blocking
+- Added Horsemen Torch Wield Fix and Mount Tweaks 
+- Added Strange Runes - Settings Loader
+- Added Lod Unloading Bug Fix - Settings Loader
+- Added Animunculi - Dwarven Spider SFX Redesigned
+- Changed QuickLoot EE MCM in order to keep the loot menus close while in combats
+- Changed Improved Alternate Conversation Camera MCM in order to get smoother cameras transitions
+- Changed some things in ENB ORganizer like having Images comparison, and added TKV6 ENB and Cabbage - Zeux Addon
+- Changed Wait Your Turn mod as initially disabled for more difficulty, you can enable it if you want
+- Cleaned more unused data to improve performances and storage
+- Fixed dodge not working
+- Fixed the double door at falkreath church
+- Fixed floating skull at nightgate inn entrance
+- Fixed crashes when hovering certain warpaints
+- Fixed the NPCs taking you for Khajiit even when not being one
+- Fixed the book writing idle playing all time and infinitely
+- Fixed the brawls giving you bounties 
+- Fixed Grealt head bug
+- Fixed Kynesgroove landscape seam
+- Fixed Jk's Palace of the kings floating items
+- Fixed Western Watchtower clipping tower mesh
+- Fixed landscape issues at Falkreath
+- Fixed Landscape issues on Icebergs edited by Northern Encounters and IRR
+- Made a Bashed Patch
+- Removed Projectiles
+- Removed Snowy AF Windhelm
+- Removed Smooth Combat Non Combat Animation
+- Removed Witcher 3 Horse Footsetp Sounds
+- Removed Rudy HQ - More Lights for ENB - Chaurus Effs and Sacs
+- Removed Floating Hanging Moss Fix
+- Removed Animated Interactions And Idles
+- Removed Animated Interactions And Idles - Setting Loader
+- Removed Allow Dialogue Progress Bugfix
+- Removed BA Khajiit Speak Redux
+- Updated Detailed Carriages
+- Updated Kratos Guardian Shield Animated
+- Updated Greymoor
+- Updated Equippable Underwear for NPCs
+- Updated Faster HDT-SMP
+- Updated Praedy's Staves AIO Patch Hub
+- Updated Caught Red Handed - Quest Expension
+- Updated The Welkynar Knight - Quest
+- Updated Unofficial eFPS Patches
+- Updated Jk's Interior Patch Colletion
+- Updated New Weynon
+- Updated Serana Dialogue Add-On
+- Updated Serana Dialogue Add-On - Patch Hub
+- Updated Northern Roads - Patch Collection
+- Updated Community Overlays 3
+- Updated B.O.O.B.I.E.S
+- Updated The Great City of Winterhold Patch Collection
+- Updated Remote Interaction
+- Updated Animated Ice Floes
+- Updated HOTD - Conquest Trio
+
+## Overview of the update:
+Many bugs have been fixed, the gameplay and combats is improved, more complex and complicated with new bash features, a lot of new spells, Addons of tree skills for Amadant. The UI has been a bit improved, new icons added, the loot contextual menu now only opens outside of combat to keep the screen clean during the gameplay. A few visual improvements also have been made, especially in small clutter things.
+This update also focuses a lot on the Sounds. Many mods by Satafinix have been added and updated, and compatibility patches for other mods added.
+This version should be a lot more stable and enjoyable than the previous one, with almost no performance loss.
+
 # What's New on v1.1.1 ?
 - Added Spriggans SE
 - Added Dragonborn Voice Over - Bella
