@@ -5,6 +5,12 @@
 - Added Phenomenally Enriched and Nuanced Ingredients for SkyUI
 - Added Falmer Ears
 - Added THICC
+- Added Desecration
+- Added Simple Offence Suppression MCM
+- Added Simple Offence Suppression - Add-on
+- Added Ascension
+- Added Inquisition
+- Added Flames of Coldharbour
 - Added Bells of Skyrim
 - Added Fancy Bells of Skyrim
 - Added Wyrm - Dragon Sounds Rework
