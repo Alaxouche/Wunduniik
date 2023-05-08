@@ -6,6 +6,8 @@
 - Added Falmer Ears
 - Added THICC
 - Added Desecration
+- Added Desecration - Deadly Spell Impacts Decals Patch
+- Added Kabu's Really Gourd Plant Replacer
 - Added Simple Offence Suppression MCM
 - Added Simple Offence Suppression - Add-on
 - Added Ascension
@@ -63,6 +65,8 @@
 - Made a Bashed Patch
 - Removed Projectiles
 - Removed Snowy AF Windhelm
+- Removed Improved Gourds
+- Removed Better Gourd Plant with Optional High Poly Models
 - Removed Smooth Combat Non Combat Animation
 - Removed Witcher 3 Horse Footsetp Sounds
 - Removed Rudy HQ - More Lights for ENB - Chaurus Effs and Sacs
