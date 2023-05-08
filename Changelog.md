@@ -1,3 +1,17 @@
+# What's New on 1.2.1 ?
+- Added Elswap Hidden Mod Map Markers
+- Added Dawnstar - Fixed Fences
+- Added HDT-SMP Daedric Armor
+- Created SFW Bodyslide Outputs, thanks to Biggie Boss
+- Fixed the crash at Markarth Entrance
+- Fixed brawk bug issue putting you in troubles
+- Removed Equippable Underwear for NPCs
+- Updated Detailed Carriages
+- Updated Desecration
+- Updated Granite Hill
+- Updated Jk's Warmaiden's
+- Updated Northern Roads - Patch Collection
+
 # What's New on v1.2.0 ?
 - Added The Witcher Signs
 - Added 3D Door Mine Replacement
