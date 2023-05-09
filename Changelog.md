@@ -4,6 +4,8 @@
 - Added HDT-SMP Daedric Armor
 - Created SFW Bodyslide Outputs, thanks to Biggie Boss
 - Fixed the crash at Markarth Entrance
+- Fixed the floating road signs and rocks height on the roads
+- Fixed floating items in Greymoor
 - Fixed brawk bug issue putting you in troubles
 - Removed Equippable Underwear for NPCs
 - Updated Detailed Carriages
