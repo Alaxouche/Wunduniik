@@ -1,4 +1,4 @@
-# What's New on v1.3.0 ?
+# Wunduniik v1.3.0 
 
 ### Released at: 17/05/2023
 ### NOT SAVE COMPATIBLE
@@ -133,6 +133,9 @@
 - Updated Cathedral - 3D Mountain Flowers - Base Object Swapper
 - Updated Flames of Coldharbour
 
+## Overview of the update:
+This update is mainly focused on the visuals, especially the trees, the Reach region, as well as a lot of bug fixes. This new update also finally comes with 2 new big quests: Darkend and Carved Brink. Some texture optimization have been made, which should help on performances. Also, for permission issues, the ENB has been swapped to Berserkyr, but as the list is made for Cabbage ENB, a link on the readme to it is provided.
+
 # What's New on 1.2.1 ?
 - Added Elswap Hidden Mod Map Markers
 - Added Dawnstar - Fixed Fences
@@ -148,9 +151,6 @@
 - Updated Granite Hill
 - Updated Jk's Warmaiden's
 - Updated Northern Roads - Patch Collection
-
-## Overview of the update:
-This update is mainly focused on the visuals, especially the trees, the Reach region, as well as a lot of bug fixes. This new update also finally comes with 2 new big quests: Darkend and Carved Brink. Some texture optimization have been made, which should help on performances. Also, for permission issues, the ENB has been swapped to Berserkyr, but as the list is made for Cabbage ENB, a link on the readme to it is provided.
 
 # What's New on v1.2.0 ?
 - Added The Witcher Signs
