@@ -139,7 +139,6 @@ Before installing the modlist, here are some things you **must** do:
 #### Accounts and Websites
 
 So the Wabbajack Installation happens without problem, you must connect/create a few accounts for the following websites:
-- [Loverslab](https://www.loverslab.com/)
 - [Nexus Mod](https://www.nexusmods.com/) (Premium Recommended for faster installation)
 - [Vector Plexis](https://vectorplexis.com/)
 
@@ -216,7 +215,7 @@ It is recommended to check the ini files in Beth-Ini to make sure that your scre
 
 Wunduniik was designed and set up to be used with Cabbage ENB for NAT III Weather, but you can change it if you don't like it.
 
-Also to help you with the ENB management, I strongly advise you the [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077). It will allow you to prepare presets of ENBs you can easily switch as it will remember the files used and their configurations. Here is how you may use/set up it:
+Also to help you with the ENB management, I strongly advise you the ENB Organizer, that comes in the programs of Mod Organizer 2. It will allow you to prepare presets of ENBs you can easily switch as it will remember the files used and their configurations. This modlist is using Berserkyr ENB for permission purpose but it is made for Cabbage ENB. I strongly advise you to use it and get it [there](https://ptb.discord.com/channels/872252014002843658/1083842896429592687/1107915452446953563). Here is how you may use/set up it: 
 
 1. Launch ENB Organizer through Mod Organizer 2:
 
