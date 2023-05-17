@@ -1,7 +1,7 @@
 # What's New on v1.3.0 ?
 
 ### Released at: 17/05/2023
-### SAVE COMPATIBLE
+### NOT SAVE COMPATIBLE
 
 ## New Additions:
 - Added Player Rotation in RaceMenu
