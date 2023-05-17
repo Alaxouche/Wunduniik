@@ -1,3 +1,138 @@
+# What's New on v1.3.0 ?
+
+### Released at: 17/05/2023
+### SAVE COMPATIBLE
+
+## New Additions:
+- Added Player Rotation in RaceMenu
+- Added Environs - Shrines of Talos
+- Added Environs - Master Plugin
+- Added LamasTinyHUD
+- Added LamasTinyHUD Nordic Themed Reskin
+- Added Runic Dragonstone
+- Added Hot Lava - Heat Distortion
+- Added Khajiit Will Follow
+- Added Kanjs Skull of Corruption
+- Added Falmer Pullchain ENB Light
+- Added Better Karstaag Skull Wall
+- Added The Black Door Revoiced
+- Added Cathedral - 3D Grass Library
+- Added Cathedral - 3D Solstheim Grass 
+- Added Gore
+- Added Artefake
+- Added Vestige
+- Added No more Reach Mountain Moss
+- Added VickusDickus' Khajiiti Apex Armory
+- Added Smart Optimal Salves - Optimal Potion Hotkey MCM
+- Added Dark Brotherhood for Good Guys
+- Added Dark Brotherhood for Good Guys - Tweaks and Patches
+- Added Thieves Guild for Good Guys - Taking Care of Business Redux
+- Added BAT - Bigger Argonian Tails
+- Added Darkend
+- Added Carved Brink
+- Added Unofficial Carved Brink Patch
+- Added Carved Brink Generic Assets Replacer (Stranger Mask and Corrupted Shade)
+- Added (Even) More Hidden Map Markers for Modded Locations
+- Added Paper Darkend Map for FWMF
+- Added Darkend - Tweaks and Fixes
+- Added Sacrilege - Minimalistic Vampires of Skyrim - Settings Loader
+- Added Sacrilege - Skeleton Replacer HD Patch
+- Added Sacrilege - Play Dawnguard as Vampire Undetected
+- Added Werewolf Feral Beast Run
+- Added Sacrilege - Minimalistic Vampires of Skyrim
+- Added Enhanced Waterfall Sounds - EWS
+- Added Blind People DAR Animations
+- Added Elden Counter
+- Added Gilded Doublet
+- Added Khajiit Has Wears - A Caravan Khajiit Outfit SPID Overhaul 
+- Added NAT.ENB III - Audio Overhaul Patch
+- Added Vivid Landscapes - Complex Parallax Occlusion Snow
+- Added Yazakh - Custom-Voiced Orc Follower
+
+## Fixes and Tweaks:
+- Fixed Floating road sings
+- Fixed underbright map menu
+- Fixed double boats in Dawnstar
+- Fixed landscape seams in Anga's Mill
+- Fixed landscape seams in Riften Docks
+- Fixed landscape seams in Salvius Farm
+- Fixed purple snow in Windhelm
+- Fixed floating spell tomes and mushrooms near Riverwood entrance
+- Fixed clipping tree in Falkreath interiors
+- Fixed floating lanterns
+- Fixed Aretino house
+- Fixed disappearing objects at Falkreath
+- Fixed carriage floating items at Markarth entrance
+- Fixed backstab freeze bug
+- Fixed Water seams
+- Fixed Chief Mauhulakh Mesh Exploding at Narzulbur
+- Fixed floating bushes and clipping tower mesh at Western Watchtower
+- Fixed terrain gaps
+- Fixed Lydia being always naked
+- Fixed crash when opening map at Falkreath
+- Fixed crash when opening spell menu in cheat menu
+- Fixed various plugins issues like unexisting records, deleted navmeshes... in order to prevent bugs and crashes
+- Remade the NPC Merge
+- Remade the tree mashup to include new models form NoTWL
+- Remade the LODs Outputs
+
+## Removals:
+- Removed Innocence Lost - Aretino Residence Redone
+- Removed Detailed NPCs - Immersive Armors for NPCs (SPID)
+- Removed KreatE
+- Removed Skyrim Paper Map by Caro Tuts for FWMF With Amber Guard Dunpar Wall and Reich Corigate
+- Removed VioLens Compatibility Extension
+- Removed Conquest of Skyrim
+- Removed Reanimated NPC Animations
+- Removed VioLens - A Killmove Mod SE - Legacy Settings Loader
+- Removed zxlice BackStab and Parry SSE - Script Free
+- Removed WiZkiD Pavo's House
+- Removed ENB Lava Particle Light Patch
+- Removed VioLens - A Killmove Mod SE
+- Removed Snowy AF Windhelm floating pyre fix
+- Removed Post-Hit Killmove and Execution (Unsupported)
+- Removed Killmove Paralysis Prevention
+- Removed Optimised Scripts for XPMSSE
+- Removed ENB Particle Lights - Dwemer Lanterns
+- Removed aMidianBorn Book of Silence - Extra pages
+- Swapped ENB for permission issues
+
+## Updates:
+- Updated Kaputt - Melee Killmove Manager
+- Updated Audio Overhaul for Skyrim
+- Updated Assorted Mesh Fixes 
+- Updated Arclight
+- Updated Environs - Kolskeggr
+- Updated Hanaisse's Ingredients Bowl And ENB Light
+- Updated Janquel's Arguably Needed Quixotically Unifying ESP Library
+- Updated The Great Town of Shor's Stone - Patch Collection
+- Updated Ryn's Standing Stones - Patch Collection
+- Updated Steaming Hot Soups and Stews
+- Updated The Great Village of Kynesgrove - Patch Collection
+- Updated Vernim Wood
+- Updated Wizard Hats
+- Updated Destination Weddings
+- Updated Illustrious Whiterun
+- Updated Dwarven Armour and Weapon - Golden Dwemer Pipeworks Redone Patch
+- Updated Eating Animations - Patch Collection
+- Updated JKs Guild HQ Interiors Patch Collection
+- Updated Daegon Follower Replacer - Chooey's Choice
+- Updated Hibernus - Frost Magic Sounds Overhaul
+- Updated HS Resources
+- Updated New Weynon
+- Updated JK's Interiors Patch Collection
+- Updated Animated Ice Floes
+- Updated Unofficial eFPS Patches
+- Updated The Witcher Signs
+- Updated Detailed Carriages 2.0
+- Updated Desecration
+- Updated Lux Via
+- Updated Lawless - Bandit Overhaul
+- Updated Wunduniik - Various Patches
+- Updated Environs - Hroggar's House
+- Updated Cathedral - 3D Mountain Flowers - Base Object Swapper
+- Updated Flames of Coldharbour
+
 # What's New on 1.2.1 ?
 - Added Elswap Hidden Mod Map Markers
 - Added Dawnstar - Fixed Fences
@@ -13,6 +148,9 @@
 - Updated Granite Hill
 - Updated Jk's Warmaiden's
 - Updated Northern Roads - Patch Collection
+
+## Overview of the update:
+This update is mainly focused on the visuals, especially the trees, the Reach region, as well as a lot of bug fixes. This new update also finally comes with 2 new big quests: Darkend and Carved Brink. Some texture optimization have been made, which should help on performances. Also, for permission issues, the ENB has been swapped to Berserkyr, but as the list is made for Cabbage ENB, a link on the readme to it is provided.
 
 # What's New on v1.2.0 ?
 - Added The Witcher Signs
