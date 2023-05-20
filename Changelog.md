@@ -1,3 +1,41 @@
+# Wunduniik v1.3.2
+
+### Released at: 20/05/2023
+### SAVE COMPATIBLE
+
+## New Additions:
+- Added Nigtingale Armor and Weapons Retexture
+- Added Rudy ENB for NAT 3.1.1
+- Added Dragonborn Voice Over - Ciri
+- Added Diverse Food - Base Objects Swapper
+- Added Wildcat
+- Added No Crime Teleport RE
+- Added Paraglider Minor Expension
+- Added Hrothmund the Red Enhanced
+- Added Clovers don't Float
+- Added FYX - Vanilla Table Replacer
+- Added Paintings for JKs
+
+## Fixes and Tweaks:
+- Fixed some more floating items
+- Tweaked the Equip Enchant Fix .ini
+- Tweaked the SSE Display Tweaks .ini to save more FPS
+- Swapped Berserkyr ENB to Rudy ENB for NAT 3.1.1
+
+## Removals:
+- Removed Distance Based Combat
+
+## Updates:
+- Updated Dragonborn Voice Over - Geralt
+- Updated World Encounter Hostility Fix
+- Updated HS Ressources
+- Updated NPCs Use Potions
+- Updated Icy Mesh Remaster
+- Updated Dwarven Armour and Weapons GDPR Patch
+- Updated Nordic Ruins Rubble Pile Mesg Improvement
+- Updated NAT - Weather Plugin
+- Updated Locked Chests have Keys
+
 # Wunduniik v1.3.0 
 
 ### Released at: 17/05/2023
