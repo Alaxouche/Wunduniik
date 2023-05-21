@@ -26,7 +26,7 @@ A Skyrim Special Edition Wabbajack Modlist Installer.
   - [Wabbajack Installation](#wabbajack-installation)
   - [Problems With Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
-    - [Load Order Sorting](#load-order-sorting)
+    - [CPU Optimization](#cpu-optimization)
     - [BethINI and INIs](#bethini-and-inis)
     - [ENB](#enb)
     - [DLSS](#dlss)
@@ -170,13 +170,7 @@ Here are the files that commonly fail you can download from there:
 
 ### Post Installation
   
-#### Load Order Sorting
-
-- x is not a whitelisted download:
-  - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
-  	 
-- Wabbajack could not find my game folder:
-	- Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
+#### CPU Optimization
 
 
 #### BethINI and INIs
@@ -214,7 +208,7 @@ It is recommended to check the ini files in Beth-Ini to make sure that your scre
 
 Wunduniik was designed and set up to be used with Cabbage ENB for NAT III Weather, but you can change it if you don't like it.
 
-Also to help you with the ENB management, I strongly advise you the ENB Organizer, that comes in the programs of Mod Organizer 2. It will allow you to prepare presets of ENBs you can easily switch as it will remember the files used and their configurations. This modlist is using Berserkyr ENB for permission purpose but it is made for Cabbage ENB. I strongly advise you to use it and get it [there](https://ptb.discord.com/channels/872252014002843658/1083842896429592687/1107915452446953563). Here is how you may use/set up it: 
+Also to help you with the ENB management, I strongly advise you the ENB Organizer, that comes in the programs of Mod Organizer 2. It will allow you to prepare presets of ENBs you can easily switch as it will remember the files used and their configurations. This modlist is using Rudy ENB for permission purpose but it is made for Cabbage ENB. I strongly advise you to use it and get it [there](https://cabbage.koji.cc/). Here is how you may use/set up it: 
 
 1. Launch ENB Organizer through Mod Organizer 2:
 
