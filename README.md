@@ -89,7 +89,7 @@ In comparison here are my specs:
 
 | CPU | GPU |  RAM  | Storage | Screen | FPS |
 | ------------- |------------- | ----- | ----- | ----------- | ---------- |
-| I7-7700 | Nvidia RTX 3060TI | 16GB RAM DDR4 | 1TB SATA III SSD | FHD 60Hz Screen | 48 |
+| I5-10400 | Nvidia RTX 3060TI | 16GB RAM DDR5 | 1TB SATA III SSD | FHD 60Hz Screen | 48 |
 
 ### Necessary And Useful Applications
 
@@ -171,14 +171,17 @@ Here are the files that commonly fail you can download from there:
 ### Post Installation
   
 #### CPU Optimization
+A chnage you can make using the Skyrim Priority mod is boosting your CPU performances, in order to get a smoother game. Before doing anything, consider there is a chance of making the game crash so if after making the changes you get a crash, just set the value back to default.
+Here is a good video to show you how to configure CPU Optimization step by step:
 
+[![BOOST Skyrim CPU Performance | How to Mod Skyrim AE](https://i.ytimg.com/vi/FKR0zaiIUGU/hq720.jpg)](https://youtu.be/FKR0zaiIUGU)
 
 #### BethINI and INIs
 
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-BethINI is a really useful tool to edit your `Skyrim.ini`, `SkyrimCustom.ini` and `SkyrimPrefs.ini`. I already provided you my INIs, but some lines might not be set up correctly for your computer. Here are the lines you must check before starting your game:
+BethINI is a really useful tool to edit your `Skyrim.ini`, `SkyrimCustom.ini` and `SkyrimPrefs.ini`. I already provided you my INIs, but some lines might not be set up correctly for your computer. However, BethINI is making changes to ini settings it isn't supposed to, so i removed it from the list. I advise you to make the changes by hand, but if you really want you can install BethINI yourself. Here are the lines you must check before starting your game:
 - SkyrimPrefs.ini:
   - [Display]
     - iSize H=1080 -> Change this with your screen resolution Height
@@ -189,7 +192,10 @@ BethINI is a really useful tool to edit your `Skyrim.ini`, `SkyrimCustom.ini` an
     - sD3DDevice="NVIDIA GeForce RTX 3060TI" -> Change this with you GPU name
 - Skyrim.ini:
   - [Display]
-    - sScreenShotBaseName=C:\Games\The Elder Scrolls - Skyrim - Special Edition\Screenshots\Screenshots -> Create a folder called `Screenshots` and replace this line         with the path leading to the new folder. Also you can change this using BethINI.
+    - sScreenShotBaseName=C:\Games\The Elder Scrolls - Skyrim - Special Edition\Screenshots\Screenshots -> Create a folder called `Screenshots` and replace this line         with the path leading to the new folder. 
+
+- SSEDisplayTweaks.ini
+  - Resolution=1920x1080 -> Change this with your screen resolution
 
 #### Changing screen resolution
 
@@ -218,7 +224,7 @@ Also to help you with the ENB management, I strongly advise you the ENB Organize
 
 ![image](https://i.redd.it/0ju9g2a3l7291.png)
 
-3. Select one of the different ENB presets available for the list (all are compatible with the list's weather mod, Cathedral Weather):
+3. Select one of the different ENB presets available for the list (all are compatible with the list's weather mod, NAT 3.1.1):
 
 ![image](https://i.redd.it/tnpyve3el7291.png)
 
