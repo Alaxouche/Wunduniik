@@ -1,3 +1,61 @@
+# Wunduniik v1.3.3
+
+### Released at: 25/05/2023
+### SAVE COMPATIBLE
+
+## New Additions:
+- Added Nightingale Armor and Weapons Retexture
+
+## Fixes and Tweaks:
+- Fixed the NSFW Profile
+- Fixed the resolution not applying correctly for wide screens
+- Fixed the crash when getting shot by arrows
+- Tweaked SSE Display Tweaks.ini
+- Removed Feminize - Crafting Animations
+- Removed Frankly HD Nightingale Armor and Weapons
+- Removed WiZkiD Pinewatch
+- Removed Dragonborn Voice Over - Ciri
+- Removed BAT - Bigger Argonian Tails
+
+## Updates:
+- Updated FYX - Vanilla Table Replacer
+- Updated Animated Ice Floes - BOS
+- Updated Kabu's Really Gourd Plant Replacer
+- Updated Diverse Food - BOS
+- Updated Gore
+- Updated Dragonborn Voice Over - Geralt
+- Updated World Encounter Hostility Fix
+- Updated Icy Mesh Remaster
+- Updated NAT 3.1.1
+- Updated Paintings for JKs
+- Updated Sidequests of Skyrim
+- Updated Expressive Remiel 
+- Updated Detailed Carriages 2.0
+- Updated Bloodmoon
+- Updated Environs - Shrines of Talos
+- Updated Papyrus ini Manipulator
+- Updated Hand to Hand - An Adamant Addon
+- Updated HS Ressources
+- Updated Serana Dialogue Add-On
+- Updated Northern Roads - Patches Compendium
+- Updated Ferum Niberis - My Patches
+- Updated Northern Farmhourses
+- Updated Natura
+- Updated Skyrim Plateform
+- Updated CC's HQ Mine Redone Parallax
+- Updated LOD Model Library
+- Updated Lunaris
+- Updated The Welkynar Knight - Quest
+- Updated Rudy HQ - More Dramatic Mountain Plume
+- Updated Conditional Expressions for NPCs
+- Updated Skyrim Textures Redone
+- Updated Jk's College of Winterhold
+- Updated Praedy's Elder Scroll
+- Updated Praedy's Auriel Chantry
+- Updated Headhunter - Bounty Redone
+- Updated BeastHHBB
+- Updated Nordic UI - Compas Markers Restored
+
 # Wunduniik v1.3.2
 
 ### Released at: 20/05/2023
