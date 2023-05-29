@@ -1,3 +1,51 @@
+# Wunduniik v1.3.4
+
+### Released at: 29/05/2023
+### SAVE COMPATIBLE
+
+## New Additions:
+- Added Alternate Conversation Camera Plus
+- Added Alternate Conversation Camera Tweaks
+
+## Fixes and Tweaks:
+- Removed Modern Brawl Bug Fix
+- Removed Real Clouds SE
+- Removed Improved Alternate Conversation Camera
+- Removed CLOUDS
+
+## Updates:
+- Updated Sowables of Skyrim - Leeks
+- Updated Hand to Hand - An Adamant Addon
+- Updated Gore
+- Updated BeastHHBB
+- Updated Bloodmoon
+- Updated Natura
+- Updated Detailed Carriages 2.0
+- Updated Diverse Foods 
+- Updated Rudy ENB NAT 3.1.1
+- Updated Lunaris
+- Updated NAT III - Natural and Atmospheric Tamriel
+- Updated NORDIC UI - Compass Markers Restored
+- Updated Skyrim Arrow Overhaul
+- Updated Dodge MCO-DXP
+- Updated Wunduniik - Various Patches
+- Updated Vulcano
+- Updated Stellaris
+- Updated Necrom
+- Updated Desecration
+- Updated Ryn's Standing Stones - Patch Collection
+- Updated Unofficial eFPS Patches
+- Updated Chooey's Choice Requirements
+- Updated Adamant - A Perk Overhaul
+- Updated Windhelm Bridge Revived
+- Updated FormList Manipulator - FLM
+- Updated The Handy Icon Collection Collective
+- Updated Remote Interactions
+- Updated Lux
+- Updated NPCs Names Distributor
+- Updated Northern Roads
+- Updated Abyss
+
 # Wunduniik v1.3.3
 
 ### Released at: 25/05/2023
