@@ -1,3 +1,108 @@
+# Wunduniik v1.4.0
+
+### Released at: 06/06/2023
+### NOT SAVE COMPATIBLE
+
+## New Additions:
+- Added Cities of the North - Falkreath
+- Added Cities of the North - Falkreath - Patch Collection
+- Added Jug of Milk HD by iimlenny - My version
+- Added Media Keys Fix SKSE
+- Added New Armory Series - Imperial Silver Weapons and Armour
+- Added First Person Animation Teleport Bug Fix
+- Added Open Animation Replacer
+- Added Open Animation Replacer - Math Plugin
+- Added First Person Animation Teleport Bug Fix
+- Added Standing Stones - I4 icon
+- Added The Night Mother Revoiced
+- Added DLC2AudioRepeaterActivator01Script Tweak
+- Added Stairs of Safety - Farmhouses
+- Added Strongholds - Dushnikh Yal
+- Added SkyUI 3D Item Offset Fix
+- Added Seamless Varied Feminine Idles OAR
+- Added Dual Casting Fix
+- Added Dynamic Gamma SKSE
+- Added Game Over Screen
+- Added Blackreach - Clockwork City
+- Added Mihail Chicken Variant (Color - Weight - Hanging) - SPID-BOS
+- Added NORDIC UI - Vanilla Tutorials Menu Integration
+- Added Snazzy Common Wardrobes - Base Object Swapper
+- Added Snazzy Upper Wardrobes - Base Object Swapper
+- Added Snazzy Noble Wardrobes - Base Object Swapper
+- Added Snazzy Safes - Base Object Swapper
+- Added Apocrypha Paper Map for FWMF
+- Added Arclight Icon - I4 Add-On
+- Added Bow Rapid Combo V3 - Settings Loader
+- Added Blade and Blunt - I4 icons
+- Added Updates to various maps for FWMF
+
+## Fixes and Tweaks:
+- Fixed crash during combat
+- Fixed crash caused by BURPST - Mysticism Patch
+- Fixed some floating objects
+- Fixed purple fences in windhelm
+- Fixed terrain issues in windhelm
+- Fixed overlapping boats in Solitude
+- Fixed clipping tree in New Weynon
+- Fixed Aventus Aretino using adult body mesh
+- Fixed Wheat fields growing on roads
+- Fixed gaps in terrain
+
+## Removals:
+- Removed Cow Dung
+- Removed Northern Encounters
+- Removed NSM - Small Towns and Villages
+- Removed Hanging Dead Chicken
+- Removed Laintar Dale
+- Removed MW Belethor sells his Sister
+- Removed Dynamic Animation Replacer
+- Removed Redbag Falkreath
+- Removed Redbag Falkreath - Patch Collection
+- Removed Modern Combat AI
+- Removed Ryn's Western Watchtower
+- Removed Skogarfjell Expended
+- Remvoed Bust of Tiber Septim
+- Removed Lanterns of Skyrim II - Settings Loader
+- Removed Lanterns of Skyrim II
+
+## Updates:
+- Updated Skyrim 202X - Addons
+- Updated Paulicus Poison Block (PPB) Updated	
+- Updated Collision Reset
+- Updated Dynamic Impact - Slash Effect
+- Updated Payload Interpreter
+- Updated Gore
+- Updated Caliente's Beautiful Bodies Enhancer -CBBE-
+- Updated Rodryk's Dragon Bridge Retexture
+- Updated Elden Rim - Weapon Arts 2.6.6 (MCO
+- Updated Prince and The Pauper Refine (Fixes - Improvements - New Child Outfits - No NPC Edits)
+- Updated Markarth Outskirt
+- Updated Environs - The Ruined Tundra Farmhouse
+- Updated NPCs use Potions
+- Updated The Handy Icon Collection Collective
+- Updated Animated Ice Floes
+- Updated Dynamic Female Hand Warming
+- updated Dynamic Female Ledge Sitting
+- Updated Dynamic Female Wall Leaning
+- Updated Stony AF Markarth and Dwemer Ruins - Retextures - 2K - 4K - Parallax
+- Updated Dynamic Random Spell Idle
+- Updated Smooth Random idle Animation
+- Updated NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.1.1C
+- Updated For Honor in Skyrim I Nobushi
+- Updated Goetia Female Idle Walk and Run
+- Updated Goetia Male Idle Walk and Run
+- Updated Goetia Sprint
+- Updated Levithan II Male Idle Walk and Run
+- Updated Levithan II Female Idle Walk and Run
+- Updated Levithan II Sprint
+- Updated Vanargand Male Idle Walk and Run
+- Updated Vanargand Female Idle Walk and Run
+- Updated Vanargand Sprint
+- Updated Conditional Armor Type Animations
+
+## Overview of the update:
+This update mainly focus on the fixing of the animations, especially with the new Open Animations Replacer mods, which replaces DAR. Falkreath was swapped back to Cities of the North, as Redbag's was giving too much issues. A lot of bugs and crashes were hunted and fixed. 
+
 # Wunduniik v1.3.4
 
 ### Released at: 29/05/2023
