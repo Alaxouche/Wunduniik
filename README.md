@@ -294,20 +294,20 @@ To uninstall the list simply delete the MO2 folder. As Wunduniik uses the Stock 
 
 ## FAQ
 
-Q: My compass doesn't show undiscovered locations!
+#### Q: My compass doesn't show undiscovered locations!
 A: Go to Compass Navigation Overhaul and find bShowUndiscoveredLocationMarkers=0. Change the 0 to 1
 
-Q: How do I dismount my horse?
+####  Q: How do I dismount my horse?
 A: Hold down E
 
-Q: How do I use target lock?
+####  Q: How do I use target lock?
 A: Target lock is a feature of True Directional Movement. You can change the hotkey in the TDM MCM.
 
-Q: My map is all purple!
+####  Q: My map is all purple!
 A: You have mods loaded under your map plug-ins. Make sure you move all additional esps you installed to be above your map esps
 
-🇶 : How do i update my Wunduniik modlist? 
-🇦 : Updating Wunduniik looks almost the same, as your first time installing it. 
+####  Q: How do i update my Wunduniik modlist? 
+A: Updating Wunduniik looks almost the same, as your first time installing it. 
 For more information, check out our [GitHUB site](https://github.com/Alaxouche/Wunduniik/edit/main/README.md). 
 
 - If you did not clear previous download location, mods that did not change from last update, will use already downloaded files, which is making updating a lot faster than fresh install.
@@ -320,7 +320,7 @@ If you want to keep mods, added by yourself, add [NoDelete] at the beginning of 
 - Remember to mark "Overwrite location".
 - Click "Start" button.
 
-Q : How do I activate the NSFW options ?
+####  Q : How do I activate the NSFW options ?
 A : Wunduniik indeed comes with a lite NSFW option (nudity only), which you can enable by disabling the following mods located in `Output` separator: `Bodyslide Output - Male - SFW` and `Bodyslide Output - Female - SFW`.
 
 ### Reporting an Issue
