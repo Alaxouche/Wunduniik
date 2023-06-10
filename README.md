@@ -375,6 +375,6 @@ As I already said it, the modlist is exclusively in 2K. This means that every fi
 
 - **You** for downloading the list and reading this. You're awesome.
 - Halgari and the Wabbajack Team. Without Wabbajack, this list would not exist.
-- Althro and the Animonculory Team for their support and feedback. You should also check out their [incredible lists](https://github.com/The-Animonculory/AnimonculoryWJLists/blob/main/README.md).
-- AvatarV who helped make the trailer for the list.
+- Althro and the Animonculory Team for their support and feedback. You should also check out their [modlists](https://github.com/The-Animonculory/AnimonculoryWJLists/blob/main/README.md).
+- The modlist's beta testers, who help me a lot during the creation and editing process.
 - All the modders who make mods. Without you, there'd be no list.
