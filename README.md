@@ -39,9 +39,7 @@ A Skyrim Special Edition Wabbajack Modlist Installer.
 - [Editing The List](#editing-the-list)
 - [Removing The List](#removing-the-list)
 - [FAQ](#faq)
-  - [Fix a Crash](#fix-a-crash)
   - [Reporting an Issue](#reporting-an-issue)
-  - [Wide and Ultrawide Screens Options](#wide-and-ultrawide-screens-options)
   - [Performance Options](#performance-options)
     - [Tweaking and Swithing ENB](#tweaking-and-switching-enb)
     - [INI Configuration](#ini-configuration)
@@ -296,23 +294,38 @@ To uninstall the list simply delete the MO2 folder. As Wunduniik uses the Stock 
 
 ## FAQ
 
-This section is for now empty, but will fill up with the question that will be asked. 
+Q: My compass doesn't show undiscovered locations!
+A: Go to Compass Navigation Overhaul and find bShowUndiscoveredLocationMarkers=0. Change the 0 to 1
 
-### Fix a Crash
+Q: How do I dismount my horse?
+A: Hold down E
 
-If you are playing with my modlist (or any other) and for some reasons, the game crashes, don't panic. It can happen. The first thing we want to know is why does it crashes. To find out, normally once you will go back to Mod organizer 2, the `Overwrite` folder will contain a new folder called ".NetScriptFramework". Expand it until you see a `Crash.txt` file. We will take an example:
+Q: How do I use target lock?
+A: Target lock is a feature of True Directional Movement. You can change the hotkey in the TDM MCM.
 
-![image](https://i.redd.it/tlssuy3elu191.png)
+Q: My map is all purple!
+A: You have mods loaded under your map plug-ins. Make sure you move all additional esps you installed to be above your map esps
 
-We can see on this crash log that in the `Possible Relevant Objects`, the plugins *etheral_elven_overhaul.esp* and *JK's Temple of Mara....esp* are mentioned a lot. This means they may be the cause of the crashes. So just disable the corresponding plugins and restart your game. If it doesn't crash again, we fixed it, however if it crashes again, follow again the steps. If after that you just can't fix your crashes, you can ask me or the modding helpers in my discord server.
+🇶 : How do i update my Wunduniik modlist? 
+🇦 : Updating Wunduniik looks almost the same, as your first time installing it. 
+For more information, check out our [GitHUB site](https://github.com/Alaxouche/Wunduniik/edit/main/README.md). 
+
+- If you did not clear previous download location, mods that did not change from last update, will use already downloaded files, which is making updating a lot faster than fresh install.
+
+Keep in mind, that after update, all mods added by you, will be deleted.
+If you want to keep mods, added by yourself, add [NoDelete] at the beginning of mod name.
+
+- Download our file from [Nexus site](https://www.nexusmods.com/skyrimspecialedition/mods/89632?tab=files) or from Wabbajack Application and extract it.
+- Open Wabbajack installer and point it to your "Wunduniik.wabbajack" file location.
+- Remember to mark "Overwrite location".
+- Click "Start" button.
+
+Q : How do I activate the NSFW options ?
+A : Wunduniik indeed comes with a lite NSFW option (nudity only), which you can enable by disabling the following mods located in `Output` separator: `Bodyslide Output - Male - SFW` and `Bodyslide Output - Female - SFW`.
 
 ### Reporting an Issue
 
 If, during your playthrough, you encounter any bug, incompatibility, that may disturb your gameplay/immersion, I invite you to head over my discord server and to share the bug you found in the dedicated channel, so I can try to fix it for a future update. We are working together to make this modlist always better!
-
-### Wide and Ultrawide Screens Options
-
-If you play on a wide or ultrawide screen (32:9, 21:9), you may need to fix the UI, because it won't be scaled up to your screen ratio. You may want to install [Nordic UI 32 by 9 and 21 by 9 aspect ratio patch](https://www.nexusmods.com/skyrimspecialedition/mods/53909) that will scale the UI of Nordic UI to you screen. If you find anything else not scaled up properly with the UI, let me know.
 
 ### Performance Options
 
