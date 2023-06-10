@@ -1,4 +1,67 @@
-# Wunduniik v1.4.0
+# Wunduniik v1.4.0 
+
+### Released at: 10/06/2023
+### NOT SAVE COMPATIBLE
+
+## New Additions:
+- Added Natural Waterfalls - Immersive Fallen Trees Patch
+- Added Fluffy Beds and Bedrolls
+- Added Rogue Master Detector
+- Added New Armory Series - Elven Steel Weapons
+- Added New Armory Series - Dragon Cult Weapons
+- Added New Armory Series - Lunar Weapons
+- Added NORDIC UI - Oxygen Meter 2 - Alternate Preset
+- Added Improved Loading Screen Colors
+- Added Dynamic RaceMenu Interface Patcher
+- Added Random Death Animations
+
+## Fixes and Tweaks:
+- Fixed the Naked Guards Bug
+- Fixed the wrong texture for Whiterun Stonefloor
+- Removed the NSFW Profiles 
+
+## Removals:
+- Removed No Spinning Death Animations
+- Removed Oxygen Meter 2 Reposition
+- Removed Underdog Animations
+- Removed Underdog Death Animations Chance
+- Removed Tenebrae
+- Removed Simple Attack Cancel
+- Removed SSE Engine Fixes - Save Corrupt Fix
+
+## Updates:
+- Updated Animations in Blizzard
+- Updated Look Around - Searching Animation for NPCs
+- Updated Rodryk's Dragon bridge Retexture
+- Updated TESL - Loading Screens
+- Updated Weapons Armor Clothing and Clutter Fixes
+- Updated BIR Remiel Replacer
+- Updated Skyrim 202X - Downscale
+- Updated Flat World Map Framework
+- Updated HS Resources
+- Updated Icy Mesh Remaster
+- Updated Expressive Remiel Patch
+- Updated Worldspace Encounter Hostility Fix
+- Updated Adamant - A Perk Overhaul
+- Updated Hand to Hand - And Adamant Addon
+- Updated Northern Roads Patch Collection Addon
+- Updated NORDIC UI - Compass Marker Restored
+- Updated Detailed Carriages 2.0
+- Updated Neugrad
+- Updated Serana Dialogue Addon
+- Updated NPCs Names Distributor
+- Updated Stronghold - Dushnikh Yal
+- Updated Apocrypha Paper Map for FWMF
+- Updated Standing Stones - I4 Icons
+- Updated Open Animations Replacer
+- Updated Blade and Blunt - A Combat Overhaul
+- Updated Gore
+- Updated Animated Ice Floes
+- Updated Elden Rim - Weapon Art
+- Updated New Armory Series - Imperial Silver
+- Updated Some HS Interiors Patches
+
+# Wunduniik v1.4.0 Alpha
 
 ### Released at: 06/06/2023
 ### NOT SAVE COMPATIBLE
