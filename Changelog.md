@@ -1,3 +1,57 @@
+# Wunduniik v1.4.1 
+
+### Released at: 15/06/2023
+### SAVE COMPATIBLE
+
+## New Additions:
+- Added Power Have Animations
+- Added ALT - Crates
+- Added Eating Animations - Hunterborn Patch
+- Added Conditional Expressions Extended
+- Added Colored Nordic Icons
+- Added Less Spiky Tundragrass
+- Added Less Ugly Tundragrass
+- Added Pfuscher's Mods AIO
+
+## Fixes and Tweaks:
+- Downgraded Skyrim Plateform to fix the crash on startups
+- Downgraded Eating Animations and Sounds to allow 1st person animations and prevent issues
+- Fixed the naked Khajiits
+- Fixed the missing wall meshes in Solitude
+- Fixed the Loading Screens height
+- Fixed Naked Guards  
+
+## Removals:
+- Removed Photogrammetry - Mushrooms
+- Removed Skyrim 202X
+
+## Updates:
+- Updated Dragon Weapons and Armor Retexture
+- Updated Daedric Armors and Weapons Retexture
+- Updated Ebony Armors and Weapons Retexture
+- Updated Iron Armors and Weapons Retexture
+- Updated Orcish Armors and Weapons Retexture
+- Updated Elven Armors and Weapons Retexture
+- Updated Imperial Armors and Weapons Retexture
+- Updated Ancient Lands - Patches
+- Updated Deadeye
+- Updated GG's Thieves Guild HQ PAtch Collection
+- Updated Immersive Persuasion
+- Updated COTN Optimized Meshes
+- Updated The Choice Is Yours
+- Updated DynDOLOD Resources
+- Updated Destination Weddings
+- Updated The Welkynar Kight - Quest
+- Updated Natura
+- Updated Player Name Randomizer
+- Updated Belethor's Sister - Quest
+- Updated Blade and Blunt - Combat Overhaul
+- Updated Sink of Scrubbing
+- Updated Elden Rim - Weapon Arts
+- Updated Northern Roads Patch Collection Addon
+- Updated Animated Ice Floes
+- Updated Dynamic Racemeny Interface Patcher
+
 # Wunduniik v1.4.0 
 
 ### Released at: 10/06/2023
