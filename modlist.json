@@ -39,5 +39,46 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-06-16T09:41:37.2994799Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Wunduniik - Performance",
+    "description": "This modlist is an heavy \u002B1900 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning \u0022Traveler\u0022. I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
+    "author": "Alaxouche",
+    "maintainers": [
+      "github/Alaxouche"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Unofficial",
+      "MCO",
+      "Immersion",
+      "Remaster",
+      "Performance Focused",
+      "realistic combats"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Final.webp",
+      "readme": "https://github.com/Alaxouche/Wunduniik#readme",
+      "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_d1174cfb-ab77-4ee3-a6ce-dd9f89a57c5f",
+      "machineURL": "Wunduniik_Performance",
+      "discordURL": "https://discord.gg/alaxouche-s-skyrim-hub-750268919201398805"
+    },
+    "download_metadata": {
+      "Hash": "6e5eoYHHki4=",
+      "Size": 953618232,
+      "NumberOfArchives": 2670,
+      "SizeOfArchives": 153358111783,
+      "NumberOfInstalledFiles": 262315,
+      "SizeOfInstalledFiles": 210538443417
+    },
+    "version": "1.5.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-06-16T09:41:37.2994799Z",
+    "repositoryName": ""
   }
 ]
