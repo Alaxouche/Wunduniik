@@ -1,3 +1,61 @@
+# Wunduniik v1.5.0
+
+### Released at: 24/06/2023
+### NOT SAVE COMPATIBLE
+### NEW PERFORMANCE VERSION
+
+## New Additions:
+- Added Statue of Mara
+- Added Complex Parallax Texture for Northern Roads
+- Added Natural Waterfalls Patch for Rapid Rocks
+- Added Wait Your Turn - Enemy Circling Behaviour
+- Added Cancel Attack
+- Added Lux Via Kynareth Addon
+- Added Statue of Kynareth
+- Added Schlongs of Skyrim
+- Added SkySight Skins – Schlongs of Skyrim
+- Added Companions Dialogue Bundle
+- Added Combat Pathing Revolution
+- Added Skyrim 3D Rocks Gray Retexture
+
+## Fixes and Tweaks:
+- Tweaked grass density to be less lush
+
+## Removals:
+- Removed Crouch Sliding
+
+## Updates:
+- Updated Alternate Start - Live Another Life
+- Updated Embers XD
+- Updated Water for ENB
+- Updated Racial Abilities - I4 icons
+- Updated Modern Female Sitting Animations Overhaul
+- Updated Weapon Styles - Draw-Sheath animations
+- Updated Immersive Rejections
+- Updated Blade and Blunt - A Combat Overhaul
+- Updated Northern Roads Patch Collection - Addons Patches and Combos
+- Updated Natural Waterfalls - Immersive Fallen Trees Patch
+- Updated Cathedral - 3D Sword Ferns
+- Updated Cathedral - 3D Grass Library
+- Updated Real Wheat Fields of Skyrim
+- Updated Aspens Ablaze Add-On - DynDOLOD 3
+- Updated Skyrim Arrow Overhaul
+- Updated Environs - The Shrines of Talos - Patch Collection
+- Updated Northern Roads - Patches Compendium
+- Updated Dragonborn Voice Over
+- Updated Natural Waterfalls
+- Updated HS Resources
+- Updated Sink of Scrubbing - Interactive Wash Basins
+- Updated Assorted Mesh Fixes
+- Updated Pfuscher's mods - AIO
+- Updated Nocturnal Moths
+- Updated Open Animation Replacer
+- Updated Open Animation Replacer - Math Plugin
+- Updated Compass Navigation Overhaul
+- Updated Fur Shader Armors
+- Updated Elden Rim - Weapon Arts
+- Updated Vestige - An Artifact Overhaul
+
 # Wunduniik v1.4.1 
 
 ### Released at: 15/06/2023
