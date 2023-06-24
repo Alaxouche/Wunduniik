@@ -139,6 +139,7 @@ Before installing the modlist, here are some things you **must** do:
 So the Wabbajack Installation happens without problem, you must connect/create a few accounts for the following websites:
 - [Nexus Mod](https://www.nexusmods.com/) (Premium Recommended for faster installation)
 - [Vector Plexis](https://vectorplexis.com/)
+- [Loverslab](https://www.loverslab.com/)
 
 ### Wabbajack Installation
 
