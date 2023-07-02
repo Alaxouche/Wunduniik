@@ -1,5 +1,109 @@
 # Wunduniik v1.5.0
 
+### Released at: 05/06/2023
+### NOT SAVE COMPATIBLE
+
+## New Additions:
+- Added Natural Waterfalls - Markarth Mossy AF - Patched
+- Added Brawl Lines Expension and Fixes
+- Added Diverse Candles - Base Object Swapper
+- Added M105SprintTriggerScript Fix
+- Added Photo Mode
+- Added Strongholds - Mor Khazgur
+- Added Wizard Hats Return (SPID)
+- Added Nordic UI Icons for Sunhelm
+- Added Eating Animations and Sounds - Sunhelm Patch
+- Added Sunhelm Magical Heat Sources
+- Added Sunhelm Survival
+- Added Camrea Persistence Fixes
+- Added Skyrim Object SMIMed - Farm Mills
+- Added Whiterun Objects SMIMed - Dragonsreach Stairs
+- Added Campfire
+- Added Elsopa - Campfire HD
+- Added Chitin Armors Retexture
+- Added Sonders Keyword Distribution Resources
+- Added Eclipse Mage Outfit
+- Added League of Assassins Armor
+- Added Dragon Age Staff Moveset
+- Added For Honor Power Attack
+- Added Bladestaff of Skyrim
+
+## Fixes and Tweaks:
+- Fixed bugged combats and animations
+- Fixed stamina comsumption
+- Tweaked Mara statue size
+
+## Removals:
+- Removed Lazy Weapon Pack 2
+- Removed Dynamic Fus Ro Dah
+- Removed Draugr One-handed Animation
+- Removed Draugr 2HW Attack Animation
+- Removed Fendrix Stamina Overhaul
+- Removed Fendrix Stamina Overhaul - Mern's Preset
+- Removed Relaxed Sneak Animations
+- Removed Smooth Random Blocking Animations
+- Removed Triple-Tab Killmove Animation
+- Removed Flinching
+- Removed MCO Universal Support
+- Removed Elden Power Attack
+- Removed Elden Power Attack - MCO DXP
+- Removed Elden Parry
+- Removed HDT-SMP Force Fields
+- Removed Read the Room
+- Removed Spartan Hoplite Femal Version
+- Removed SBE True Prone System
+- Removed Wizard Hats for Mages
+- Removed Sonderbains Chevalier - Randomized One Handed Block Animation
+- Removed Randomized One Handed Block and Idle Animation
+- Removed FreeFlyCam
+- Removed Leviathan Animations II - Greatsword Normal Attack
+- Removed Leviathan Animations II - Greatsword Sprint Attack
+- Removed Leviathan Animations II - Greatsword Low Stance
+
+## Updates:
+- Updated Console Plus Plus
+- Updated Hunters Not Bandits
+- Updated Jarl Sitting Animation Replacer
+- Updated Take a Peek
+- Updated Lux
+- Updated Lux Orbis
+- Updated Skyrim Remastered - Glacier and Ice
+- Updated GG's HH Fixed Stairs
+- Updated SSE Terrain Tamriel
+- Updated Mesh Patches for Lux and Lux Orbis
+- Updated Navigator - Navmesh Fixes
+- Updated 3D Junipers - Trees and Berries
+- Updated DynDOLOD DLL
+- Updated Dodge MCO-DXP
+- Updated Gore
+- Updated Remiel - Dwemer Specialist
+- Updated Goetia Animation - Sprint
+- Updated Goetia Animation - Female Idle Walk Run
+- Updated Goetia Animation - Male Idle Walk Run
+- Updated Leviathan Animation II - Sprint
+- Updated Leviathan Animation II - Female Idle Walk Run
+- Updated Leviathan Animation II - Male Idle Walk Run
+- Updated Vanargand Animation - Sprint
+- Updated Vanargand Animation - Female Idle Walk Run
+- Updated Vanargand Animation - Male Idle Walk Run
+- Updated Seasonal Landscapes - Unfrozen - Patches
+- Updated Turn of the Seaons
+- Updated Conditional Armor Type Animation - CATA
+- Updated Adamant - A Perk Overhaul
+- Udpated Seamless Varied Feminine Idles OAR
+- Updated Some HS Interior Patches
+- Updated NPCs Names Distributor
+- Updated JS Emissive Eyes 
+- Updated Fur Shader Armors
+- Updated Assorted Mesh Fixes
+- Updated Northern Roads Patch Collection Addons
+- Updated Northern Roads - Complex Parallax Retexture
+- Updated Water For ENB
+- Updated Embers XD
+- Updated Random Male Wall Leaning Animations
+
+# Wunduniik v1.5.0
+
 ### Released at: 24/06/2023
 ### NOT SAVE COMPATIBLE
 ### NEW PERFORMANCE VERSION
