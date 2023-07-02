@@ -1,4 +1,4 @@
-# Wunduniik v1.5.0
+# Wunduniik v1.6.0
 
 ### Released at: 05/06/2023
 ### NOT SAVE COMPATIBLE
