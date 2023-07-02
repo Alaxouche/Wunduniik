@@ -4,6 +4,8 @@
 ### NOT SAVE COMPATIBLE
 
 ## New Additions:
+- Added Bonemold Armors and Weapons Retexture
+- Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
 - Added Natural Waterfalls - Markarth Mossy AF - Patched
 - Added Brawl Lines Expension and Fixes
 - Added Diverse Candles - Base Object Swapper
