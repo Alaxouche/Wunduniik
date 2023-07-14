@@ -1,3 +1,44 @@
+# Wunduniik v1.6.2
+
+### Released at: 14/07/2023
+### NOT SAVE COMPATIBLE
+
+## New Additions:
+- Added ALT - Barrels
+- Added DPI Scaling Fix
+- Added Elder Rim ADXP I MCO Moveset
+- Added Pfuscher UV fixes
+- Added Subtle Feminine Carriage Sitting Animation
+- Added Sorcerer 
+- Added Sorcerer Patch Page
+  
+## Fixes and Tweaks:
+- Fixed bugged combats and animations
+- Fixed Khajiits having no face
+- Finally fixed CTD on startup and main menu
+- Finally fixed wrong game scaling when using different resolution than FHD
+- Finally fixed combats
+
+## Removals:
+- Removed The Choice Is Yours 
+- Removed Eating Animations 
+- Removed dTry Plugin's Updates
+- Removed Nordic Animations Complete Pack
+
+## Updates:
+- Updated Lux
+- Updated ADXP I MCO
+- Updated Gore
+- Updated Mu Join Fix
+- Updated Skyrim Objects SMIMed - Noble Furniture
+- Updated Natural Waterfalls
+- Updated BnP female skin (Replacer version)
+- Updated Berserker - A God of War Font (Final Design)
+- Updated Pilgrim and Daedric Shrines Consistency and Tweaks
+- Updated Weapons Armor Clothing and Clutter Fixes
+- Updated Particle Patch for ENB
+- Updated Assorted Mesh Fixes
+
 # Wunduniik v1.6.0
 
 ### Released at: 05/06/2023
