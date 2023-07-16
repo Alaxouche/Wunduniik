@@ -1,3 +1,38 @@
+# Wunduniik v1.6.3
+
+### Released at: 16/07/2023
+### SAVE COMPATIBLE
+
+## New Additions:
+- Added Seriously Improved Sparks
+- Added MCO Block Fix
+  
+## Fixes and Tweaks:
+- Made the grass lush again
+- Removed the Creation Kit Requirement
+- Fixed the text in console commands
+- Fixed the wrong profile used by default
+  
+## Removals:
+- Removed Improved Sparks
+  
+## Updates:
+- Updated Elden Rim - Weapon Arts
+- Updated Embers XD
+- Updated Strongholds - Narzulbur
+- Updated Dwemer Automatons - Golden Dwemer Pipeworks Redone Patch
+- Updated Aura's Scrumptious Supplement
+- Updated Phenomenally Enriched and Nuanced Ingredients for SkyUI
+- Updated Object Categorization Framework
+- Updated DynDOLOD - Settings Loader
+- Updated DynDOLOD DLL SE
+- Updated Vestige - An Artifact Overhaul
+- Updated Strongholds - Largashbur
+- Updated Berserker - A God of War Font
+- Updated TB's Improved Smoke
+- Updated Saints and Seducers - Mysticism Rebalance
+- Updated Civil War Lines Expansion
+  
 # Wunduniik v1.6.2
 
 ### Released at: 14/07/2023
