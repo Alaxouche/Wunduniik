@@ -64,21 +64,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Final.webp",
       "readme": "https://github.com/Alaxouche/Wunduniik#readme",
-      "download": "https://authored-files.wabbajack.org/Wunduniik - Performance.wabbajack_7d3af686-96ed-4bd1-b412-11ed6349ed81",
+      "download": "https://authored-files.wabbajack.org/Wunduniik - Performance.wabbajack_8b40ea92-6f81-4ec3-93af-b619608409dd",
       "machineURL": "Wunduniik_Performance",
       "discordURL": "https://discord.gg/alaxouche-s-skyrim-hub-750268919201398805"
     },
     "download_metadata": {
-      "Hash": "mET+hFMwdzg=",
-      "Size": 784492351,
-      "NumberOfArchives": 2685,
-      "SizeOfArchives": 135890775348,
-      "NumberOfInstalledFiles": 265392,
-      "SizeOfInstalledFiles": 190869326519
+      "Hash": "qPvIrf6vyMQ=",
+      "Size": 769833507,
+      "NumberOfArchives": 2701,
+      "SizeOfArchives": 135840832764,
+      "NumberOfInstalledFiles": 262676,
+      "SizeOfInstalledFiles": 189315546342
     },
-    "version": "1.5.0",
+    "version": "1.6.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-07T17:50:37.0398098Z",
+    "dateUpdated": "2023-07-16T18:14:36.226448Z",
     "repositoryName": ""
   }
 ]
