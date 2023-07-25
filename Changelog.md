@@ -1,8 +1,60 @@
+# Wunduniik v1.6.4
+
+### Released at: 25/07/2023
+### SAVE COMPATIBLE
+
+<Details>
+  
+## New Additions:
+- Added Dynamic Activation Key 
+- Added Dynamic Activation Key - MCM
+- Added Imperious - Immersive Interactions Patch
+  
+## Fixes and Tweaks:
+
+  
+## Removals:
+- Removed Face Discoloration Fix
+- Removed TGC - Winterhold Vanilla Meshes
+- Removed Daegon Kaekiri
+- Removed Daegon Follower Replacer - Chooey's Choice
+  
+## Updates:
+- Updated Gore
+- Updated New Armory Series - Imperial Silver
+- Updated Yazakh - Custom-Voiced Orc Follower
+- Updated Remiel-Custom Voiced Dwemer Specialist and Companion
+- Updated Conditional Expressions - Subtle Face Animations - Settings Loader
+- Updated Base Objects Swapper
+- Updated COTN Dawnstar Patch Collection
+- Updated COTN Morthal Patch Collection
+- Updated COTN Falkreath Patch Collection
+- Updated Golden Dwemer Pipeworks Redone
+- Updated Immersive Interactions
+- Updated Papryrus Extender
+- Updated The Great Village of Old Hroldan Patch Collection
+- Updated Take a Peek - Settings Loader
+- Updated PAPER
+- Updated The Great Town of Ivarstead Patch Collection
+- Updated Vampire Feeding Tweaks
+- Updated RemoveAllItems Freeze Fix
+- Updated The Great City of Winterhold Patch Collection
+- Updated Yazakh
+- Updated City Trees
+- Updated Papyrus Ini Manipulator
+- Updated Conditional Expressions - Subtle Face Animations - Settings Loader
+- Updated Detailed Carriages 2.0
+- Updated Conditional Expressions Extended
+- Updated Ancient Land - Patches
+</Details>
+
 # Wunduniik v1.6.3
 
 ### Released at: 16/07/2023
 ### SAVE COMPATIBLE
 
+<Details>
+  
 ## New Additions:
 - Added Seriously Improved Sparks
 - Added MCO Block Fix
@@ -32,12 +84,16 @@
 - Updated TB's Improved Smoke
 - Updated Saints and Seducers - Mysticism Rebalance
 - Updated Civil War Lines Expansion
+
+</Details>
   
 # Wunduniik v1.6.2
 
 ### Released at: 14/07/2023
 ### NOT SAVE COMPATIBLE
 
+<Details>
+  
 ## New Additions:
 - Added ALT - Barrels
 - Added DPI Scaling Fix
@@ -74,11 +130,15 @@
 - Updated Particle Patch for ENB
 - Updated Assorted Mesh Fixes
 
+</Details>
+
 # Wunduniik v1.6.0
 
 ### Released at: 05/06/2023
 ### NOT SAVE COMPATIBLE
 
+<Details>
+  
 ## New Additions:
 - Added Bonemold Armors and Weapons Retexture
 - Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
@@ -180,12 +240,16 @@
 - Updated Embers XD
 - Updated Random Male Wall Leaning Animations
 
+</Details>
+  
 # Wunduniik v1.5.0
 
 ### Released at: 24/06/2023
 ### NOT SAVE COMPATIBLE
 ### NEW PERFORMANCE VERSION
 
+<Details>
+  
 ## New Additions:
 - Added Statue of Mara
 - Added Complex Parallax Texture for Northern Roads
@@ -238,10 +302,14 @@
 - Updated Elden Rim - Weapon Arts
 - Updated Vestige - An Artifact Overhaul
 
+</Details>
+  
 # Wunduniik v1.4.1 
 
 ### Released at: 15/06/2023
 ### SAVE COMPATIBLE
+
+<Details>
 
 ## New Additions:
 - Added Power Have Animations
@@ -292,10 +360,14 @@
 - Updated Animated Ice Floes
 - Updated Dynamic Racemeny Interface Patcher
 
+</Details>
+  
 # Wunduniik v1.4.0 
 
 ### Released at: 10/06/2023
 ### NOT SAVE COMPATIBLE
+
+<Details>
 
 ## New Additions:
 - Added Natural Waterfalls - Immersive Fallen Trees Patch
@@ -355,11 +427,15 @@
 - Updated New Armory Series - Imperial Silver
 - Updated Some HS Interiors Patches
 
+</Details>
+  
 # Wunduniik v1.4.0 Alpha
 
 ### Released at: 06/06/2023
 ### NOT SAVE COMPATIBLE
 
+<Details>
+  
 ## New Additions:
 - Added Cities of the North - Falkreath
 - Added Cities of the North - Falkreath - Patch Collection
@@ -460,11 +536,15 @@
 ## Overview of the update:
 This update mainly focus on the fixing of the animations, especially with the new Open Animations Replacer mods, which replaces DAR. Falkreath was swapped back to Cities of the North, as Redbag's was giving too much issues. A lot of bugs and crashes were hunted and fixed. 
 
+</Details>
+  
 # Wunduniik v1.3.4
 
 ### Released at: 29/05/2023
 ### SAVE COMPATIBLE
 
+<Details>
+  
 ## New Additions:
 - Added Alternate Conversation Camera Plus
 - Added Alternate Conversation Camera Tweaks
@@ -508,11 +588,15 @@ This update mainly focus on the fixing of the animations, especially with the ne
 - Updated Northern Roads
 - Updated Abyss
 
+</Details>
+  
 # Wunduniik v1.3.3
 
 ### Released at: 25/05/2023
 ### SAVE COMPATIBLE
 
+<Details>
+  
 ## New Additions:
 - Added Nightingale Armor and Weapons Retexture
 
@@ -566,11 +650,15 @@ This update mainly focus on the fixing of the animations, especially with the ne
 - Updated BeastHHBB
 - Updated Nordic UI - Compas Markers Restored
 
+</Details>
+  
 # Wunduniik v1.3.2
 
 ### Released at: 20/05/2023
 ### SAVE COMPATIBLE
 
+<Details>
+  
 ## New Additions:
 - Added Nigtingale Armor and Weapons Retexture
 - Added Rudy ENB for NAT 3.1.1
@@ -604,11 +692,15 @@ This update mainly focus on the fixing of the animations, especially with the ne
 - Updated NAT - Weather Plugin
 - Updated Locked Chests have Keys
 
+</Details>
+  
 # Wunduniik v1.3.0 
 
 ### Released at: 17/05/2023
 ### NOT SAVE COMPATIBLE
 
+<Details>
+  
 ## New Additions:
 - Added Player Rotation in RaceMenu
 - Added Environs - Shrines of Talos
@@ -742,7 +834,12 @@ This update mainly focus on the fixing of the animations, especially with the ne
 ## Overview of the update:
 This update is mainly focused on the visuals, especially the trees, the Reach region, as well as a lot of bug fixes. This new update also finally comes with 2 new big quests: Darkend and Carved Brink. Some texture optimization have been made, which should help on performances. Also, for permission issues, the ENB has been swapped to Berserkyr, but as the list is made for Cabbage ENB, a link on the readme to it is provided.
 
+</Details>
+  
 # What's New on 1.2.1 ?
+
+<Details>
+  
 - Added Elswap Hidden Mod Map Markers
 - Added Dawnstar - Fixed Fences
 - Added HDT-SMP Daedric Armor
@@ -758,7 +855,12 @@ This update is mainly focused on the visuals, especially the trees, the Reach re
 - Updated Jk's Warmaiden's
 - Updated Northern Roads - Patch Collection
 
+</Details>
+  
 # What's New on v1.2.0 ?
+
+<Details>
+  
 - Added The Witcher Signs
 - Added 3D Door Mine Replacement
 - Added Slightly Improved Nightgate Inn
@@ -861,7 +963,12 @@ Many bugs have been fixed, the gameplay and combats is improved, more complex an
 This update also focuses a lot on the Sounds. Many mods by Satafinix have been added and updated, and compatibility patches for other mods added.
 This version should be a lot more stable and enjoyable than the previous one, with almost no performance loss.
 
+</Details>
+  
 # What's New on v1.1.1 ?
+
+<Details>
+  
 - Added Spriggans SE
 - Added Dragonborn Voice Over - Bella
 - Added Forsworn Minotaurs
@@ -918,7 +1025,12 @@ This version should be a lot more stable and enjoyable than the previous one, wi
 - Updated Precision- Creatures
 - Updated Infernorum - Fire Magic Sounds Overhaul
 
+</Details>
+  
 # What's New on v1.1.0 ?
+
+<Details>
+  
 - Added Aspen Ablaze
 - Added Minotaurs - Mihail Monsters and Animals
 - Added Fluffy Minotaurs
@@ -1028,7 +1140,12 @@ This version should be a lot more stable and enjoyable than the previous one, wi
 - Updated Weapon Styles - Draw-Sheathe animations
 - Updated ENBSeries
 
+</Details>
+  
 # What's New on v1.0.4 ?
+
+<Details>
+  
 - Added Iconic's Vampire Lord Retexture
 - Added Riften Temple Sconce Fix
 - Added Ferrum Nibenis - My Patches SE
@@ -1080,8 +1197,12 @@ This version should be a lot more stable and enjoyable than the previous one, wi
 - Updated Skyrim Landscape and Water Fixes
 - Updated Snowy Surfaces Sound Collision and Aesthetics 
 
+</Details>
 
 # What's New on v1.0.3 ?
+
+<Details>
+  
 - Added Diamond Body CBBE 3BA
 - Added Vanilla Clothes and Armor - CBBE 3BA
 - Added Water in Wash Basins - Mesh-only Replacer
@@ -1121,7 +1242,12 @@ This version should be a lot more stable and enjoyable than the previous one, wi
 - Updated Enhanced Landscapes - Dead Marsh Standalone
 - Updated Faster HDT-SMP
 
+</Details>
+  
 # What's New on v1.0.2 ?
+
+<Details>
+
 - Removed unused weather mods (cathedral weather and MCM, solas weather...)
 - Added support for wider screens (21x9 and 32x9) through new mods and profiles
 - Added Growl - Werebeasts of Skyrim
@@ -1157,3 +1283,5 @@ This version should be a lot more stable and enjoyable than the previous one, wi
 - Updated Embers XD
 - Updated Strongholds - Narzulbur
 - Updated Faster HDT
+
+</Details>
