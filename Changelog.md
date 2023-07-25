@@ -11,13 +11,16 @@
 - Added Imperious - Immersive Interactions Patch
   
 ## Fixes and Tweaks:
-
+- Fixed Facegen for Khajiit NPCs
+- Fixed Long startup time
+- Fixed right hand power attack not working
   
 ## Removals:
 - Removed Face Discoloration Fix
 - Removed TGC - Winterhold Vanilla Meshes
 - Removed Daegon Kaekiri
 - Removed Daegon Follower Replacer - Chooey's Choice
+- Removed Dark Souls Undressed - NeverNude - Underwear - CBBE - HIMBO
   
 ## Updates:
 - Updated Gore
@@ -46,6 +49,22 @@
 - Updated Detailed Carriages 2.0
 - Updated Conditional Expressions Extended
 - Updated Ancient Land - Patches
+- Updated Natural Waterfalls - Immersive Fallen Trees Patch
+- Updated NPCs Names Distributor
+- Updated Remiel-Custom Voiced Dwemer Specialist and Companion
+- Updated Take a Peek - New Stealth Mechanic
+- Updated Strongholds - Mor Khazgur
+- Updated Strongholds - Largashbur
+- Updated Strongholds - Narzulbur
+- Updated Improved Camera
+- Updated Diverse Candles - Base Object Swapper
+- Updated HS Resources
+- Updated Assorted Mesh Fixes
+- Updated Object Categorization Framework
+- Updated Embers XD
+- Updated Schlongs of Skyrim - Settings Loader
+- Updated Elden Rim - Weapon Arts
+  
 </Details>
 
 # Wunduniik v1.6.3
