@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Logo-v2.3.webp",
       "readme": "https://github.com/Alaxouche/Wunduniik#readme",
-      "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_56687058-8efb-4f8e-9d05-bba877966219",
+      "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_52165ce7-0df6-4632-a5de-390886477547",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/alaxouche-s-skyrim-hub-750268919201398805"
     },
     "download_metadata": {
-      "Hash": "oRoFfPJ6k0U=",
-      "Size": 913126633,
-      "NumberOfArchives": 3149,
-      "SizeOfArchives": 169566742053,
-      "NumberOfInstalledFiles": 287670,
-      "SizeOfInstalledFiles": 230576178649
+      "Hash": "nfjN5nrzBwk=",
+      "Size": 931805489,
+      "NumberOfArchives": 3526,
+      "SizeOfArchives": 171832248131,
+      "NumberOfInstalledFiles": 294414,
+      "SizeOfInstalledFiles": 238308607911
     },
-    "version": "2.2.0",
+    "version": "2.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-09-24T14:23:05.778065Z",
+    "dateUpdated": "2023-10-02T16:33:52.2543563Z",
     "repositoryName": ""
   },
   {
