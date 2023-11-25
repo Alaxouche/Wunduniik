@@ -19,25 +19,26 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Logo-v2.3.webp",
       "readme": "https://github.com/Alaxouche/Wunduniik#readme",
-      "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_f0ed4673-dce2-4b73-bc2e-edc4729afad5",
+      "download": "https://authored-files.wabbajack.org/Wunduniik .wabbajack_7f6e5e51-3919-4503-8328-2bc7de9fa88c",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/alaxouche-s-skyrim-hub-750268919201398805"
     },
     "download_metadata": {
-      "Hash": "Kogmgefi9EA=",
-      "Size": 934869758,
-      "NumberOfArchives": 3536,
-      "SizeOfArchives": 172211427088,
-      "NumberOfInstalledFiles": 294784,
-      "SizeOfInstalledFiles": 238694445992
+      "Hash": "I0/aShyC51U=",
+      "Size": 738389482,
+      "NumberOfArchives": 3305,
+      "SizeOfArchives": 175213300882,
+      "NumberOfInstalledFiles": 246430,
+      "SizeOfInstalledFiles": 251984234893
     },
-    "version": "2.2.2",
+    "version": "3.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-10-03T18:11:36.2988638Z",
+    "dateUpdated": "2023-11-25T18:48:24.6431207Z",
     "repositoryName": ""
   },
   {
@@ -60,6 +61,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Final.webp",
