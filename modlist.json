@@ -40,47 +40,5 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-01-08T19:22:18.8380503Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Wunduniik - Performance",
-    "description": "This modlist is an heavy \u002B1900 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning \u0022Traveler\u0022. I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
-    "author": "Alaxouche",
-    "maintainers": [
-      "github/Alaxouche"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Unofficial",
-      "MCO",
-      "Immersion",
-      "Remaster",
-      "Performance Focused",
-      "realistic combats"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Final.webp",
-      "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
-      "download": "https://authored-files.wabbajack.org/Wunduniik - Performance.wabbajack_8b40ea92-6f81-4ec3-93af-b619608409dd",
-      "machineURL": "Wunduniik_Performance",
-      "discordURL": "https://discord.gg/alaxouche-s-skyrim-hub-750268919201398805"
-    },
-    "download_metadata": {
-      "Hash": "qPvIrf6vyMQ=",
-      "Size": 769833507,
-      "NumberOfArchives": 2701,
-      "SizeOfArchives": 135840832764,
-      "NumberOfInstalledFiles": 262676,
-      "SizeOfInstalledFiles": 189315546342
-    },
-    "version": "1.6.3",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-16T18:14:36.226448Z",
-    "repositoryName": ""
   }
 ]
