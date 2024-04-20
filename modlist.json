@@ -1,7 +1,7 @@
 [
   {
     "title": "Wunduniik - Chapter III",
-    "description": "This modlist is a heavy +3000 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2024 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning Traveler. I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
+    "description": "This modlist is a heavy \u002B3000 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2024 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning Traveler. I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
     "author": "Alaxouche",
     "maintainers": [
       "github/Alaxouche"
@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Logo-v2.6.1.webp",
       "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
-      "download": "https://authored-files.wabbajack.org/Wunduniik - Chapter III.wabbajack_2d4b762a-b529-456e-b6c6-3638fe66d43f",
+      "download": "https://authored-files.wabbajack.org/Wunduniik - Chapter III.wabbajack_1de4816c-cd62-46cd-b0c2-fad10ca51c80",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/alaxouche-s-skyrim-hub-750268919201398805"
     },
     "download_metadata": {
-      "Hash": "3UifbE/3U88=",
-      "Size": 507442100,
-      "NumberOfArchives": 4472,
-      "SizeOfArchives": 233812976987,
-      "NumberOfInstalledFiles": 282716,
-      "SizeOfInstalledFiles": 280835076315
+      "Hash": "kvXcwzkf5/8=",
+      "Size": 504514957,
+      "NumberOfArchives": 4476,
+      "SizeOfArchives": 234101225957,
+      "NumberOfInstalledFiles": 284629,
+      "SizeOfInstalledFiles": 289015819907
     },
     "version": "3.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-04-20T07:36:08.3859869Z",
+    "dateUpdated": "2024-04-20T10:36:15.3488121Z",
     "repositoryName": ""
   }
 ]
