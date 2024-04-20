@@ -1,7 +1,7 @@
 [
   {
-    "title": "Wunduniik",
-    "description": "This modlist is an heavy \u002B1900 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2023 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning \u0022Traveler\u0022. I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
+    "title": "Wunduniik - Chapter III",
+    "description": "This modlist is a heavy +3000 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2024 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning "Traveler". I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
     "author": "Alaxouche",
     "maintainers": [
       "github/Alaxouche"
@@ -22,7 +22,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Logo-v2.3.webp",
+      "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Logo-v2.6.1.webp",
       "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
       "download": "https://authored-files.wabbajack.org/Wunduniik - Chapter III.wabbajack_2d4b762a-b529-456e-b6c6-3638fe66d43f",
       "machineURL": "Wunduniik",
