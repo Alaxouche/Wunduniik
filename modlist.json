@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Logo-v2.6.1.webp",
       "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
-      "download": "https://authored-files.wabbajack.org/Wunduniik - Chapter III.wabbajack_087b9735-c3d0-49f8-a526-51a92492ff6b",
+      "download": "https://authored-files.wabbajack.org/Wunduniik - Chapter III.wabbajack_757de71b-c238-4fe3-a504-54ddc7c0d4f9",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/alaxouche-s-skyrim-hub-750268919201398805"
     },
     "download_metadata": {
-      "Hash": "oNlFqb/LaB8=",
-      "Size": 384806088,
-      "NumberOfArchives": 4449,
-      "SizeOfArchives": 223316602206,
-      "NumberOfInstalledFiles": 283754,
-      "SizeOfInstalledFiles": 271436686063
+      "Hash": "cvnONHDlDlE=",
+      "Size": 384773140,
+      "NumberOfArchives": 4455,
+      "SizeOfArchives": 223512828620,
+      "NumberOfInstalledFiles": 283314,
+      "SizeOfInstalledFiles": 268332586214
     },
-    "version": "3.2.0",
+    "version": "3.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-06T20:02:28.3501944Z",
+    "dateUpdated": "2024-05-08T13:14:03.8424452Z",
     "repositoryName": ""
   }
 ]
