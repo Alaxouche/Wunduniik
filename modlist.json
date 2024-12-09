@@ -1,6 +1,6 @@
 [
   {
-    "title": "Wunduniik - Chapter III",
+    "title": "Wunduniik - Chapter IV",
     "description": "This modlist is a heavy \u002B3000 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2024 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning Traveler. I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
     "author": "Alaxouche",
     "maintainers": [
@@ -20,7 +20,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Logo-v2.6.1.webp",
       "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
