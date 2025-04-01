@@ -70,13 +70,13 @@
       "discordURL": "https://discord.gg/K7wwKRRszd"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "DCHLpM3XB8M=",
-      "Size": 898343405,
-      "NumberOfArchives": 5282,
-      "SizeOfArchives": 206741831107,
-      "NumberOfInstalledFiles": 400213,
-      "SizeOfInstalledFiles": 360296665159
+      "Hash": "j2WNQIaB93M=",
+      "Size": 684023811,
+      "NumberOfArchives": 1806,
+      "SizeOfArchives": 118762666051,
+      "NumberOfInstalledFiles": 121725,
+      "SizeOfInstalledFiles": 155723689506,
+      "TotalSize": 274486355557
     },
     "version": "1.0.0"
     "dateCreated": "1970-01-01T00:00:00Z",
