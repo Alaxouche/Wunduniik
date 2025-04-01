@@ -43,4 +43,41 @@
     "dateUpdated": "2025-03-21T18:39:59.276661Z",
     "repositoryName": ""
   }
+  {
+    "title": "Krentoraan",
+    "description": "Krentoraan is a visual only Next-gen list based off the visual of my other list Wunduniik. It offers a graphical base for users to modify upon.",
+    "author": "Alaxouche",
+    "maintainers": [
+      "github/Alaxouche"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Unofficial",
+      "visual-only",
+      "Immersion",
+      "Remaster",
+      "Graphic Focused"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Krentoraan.webp",
+      "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "Krentoraan",
+      "discordURL": "https://discord.gg/K7wwKRRszd"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "DCHLpM3XB8M=",
+      "Size": 898343405,
+      "NumberOfArchives": 5282,
+      "SizeOfArchives": 206741831107,
+      "NumberOfInstalledFiles": 400213,
+      "SizeOfInstalledFiles": 360296665159
+    },
+    "version": "1.0.0"
+  }
 ]
