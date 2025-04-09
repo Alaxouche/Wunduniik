@@ -24,21 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Logo-v2.6.4.webp",
       "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
-      "download": "https://authored-files.wabbajack.org/Wunduniik - Chapter V.wabbajack_c86d2be2-d4fe-4786-9fe2-8bcd06763cc6",
+      "download": "https://authored-files.wabbajack.org/Wunduniik - Chapter V.wabbajack_9b2c2ee3-0232-4a96-a3b7-a1a6c30aeb5f",
       "machineURL": "Wunduniik",
-      "discordURL": "https://discord.gg/K7wwKRRszd"
+      "discordURL": "https://discord.gg/K7wwKRRszd",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "vGgid0k4Do0=",
-      "Size": 820145451,
-      "NumberOfArchives": 5243,
-      "SizeOfArchives": 195693286047,
-      "NumberOfInstalledFiles": 353408,
-      "SizeOfInstalledFiles": 332318113765
+      "Hash": "o1nZvLYLtJ4=",
+      "Size": 757130827,
+      "NumberOfArchives": 5241,
+      "SizeOfArchives": 195792745511,
+      "NumberOfInstalledFiles": 349995,
+      "SizeOfInstalledFiles": 333106936225,
+      "TotalSize": 528899681736
     },
-    "version": "5.2.21",
+    "version": "5.2.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-04-04T18:17:09.077774Z",
+    "dateUpdated": "2025-04-09T20:47:08.4631272Z",
     "repositoryName": ""
   },
   {
@@ -67,7 +69,8 @@
       "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
       "download": "https://authored-files.wabbajack.org/Krentoraan.wabbajack_34c6b17c-be3b-466a-ac7d-a6fa0c247a7c",
       "machineURL": "Krentoraan",
-      "discordURL": "https://discord.gg/K7wwKRRszd"
+      "discordURL": "https://discord.gg/K7wwKRRszd",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "j2WNQIaB93M=",
@@ -75,7 +78,8 @@
       "NumberOfArchives": 1806,
       "SizeOfArchives": 118762666051,
       "NumberOfInstalledFiles": 121725,
-      "SizeOfInstalledFiles": 155723689506
+      "SizeOfInstalledFiles": 155723689506,
+      "TotalSize": 274486355557
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
