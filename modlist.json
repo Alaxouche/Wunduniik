@@ -67,23 +67,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Krentoraan.webp",
       "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
-      "download": "https://authored-files.wabbajack.org/Krentoraan.wabbajack_34c6b17c-be3b-466a-ac7d-a6fa0c247a7c",
+      "download": "https://authored-files.wabbajack.org/Krentoraan.wabbajack_122b6886-933c-4ae2-8108-5dcbd196353d",
       "machineURL": "Krentoraan",
       "discordURL": "https://discord.gg/K7wwKRRszd",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "j2WNQIaB93M=",
-      "Size": 684023811,
-      "NumberOfArchives": 1806,
-      "SizeOfArchives": 118762666051,
-      "NumberOfInstalledFiles": 121725,
-      "SizeOfInstalledFiles": 155723689506,
-      "TotalSize": 274486355557
+      "Hash": "7x0kSQGj9Tg=",
+      "Size": 653324843,
+      "NumberOfArchives": 1809,
+      "SizeOfArchives": 120712030178,
+      "NumberOfInstalledFiles": 134421,
+      "SizeOfInstalledFiles": 168307848670,
+      "TotalSize": 289019878848
     },
-    "version": "1.0.0",
+    "version": "1.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-21T18:39:59.276661Z",
+    "dateUpdated": "2025-04-11T14:53:04.6496533Z",
     "repositoryName": ""
   }
 ]
