@@ -24,23 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Wunduniik-Logo-v2.6.4.webp",
       "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
-      "download": "https://authored-files.wabbajack.org/Wunduniik - Chapter V.wabbajack_1f48dbea-41a6-4745-93a5-73a2ad409755",
+      "download": "https://authored-files.wabbajack.org/Wunduniik - Chapter V.wabbajack_b021a30e-acf6-49b4-80a7-e75466d174cd",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/K7wwKRRszd",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "rPkQvBI+2ek=",
-      "Size": 677774113,
+      "Hash": "ggPc4IIKBk0=",
+      "Size": 704209179,
       "NumberOfArchives": 4483,
-      "SizeOfArchives": 190569291963,
-      "NumberOfInstalledFiles": 321712,
-      "SizeOfInstalledFiles": 328806147887,
-      "TotalSize": 519375439850
+      "SizeOfArchives": 189677556338,
+      "NumberOfInstalledFiles": 323728,
+      "SizeOfInstalledFiles": 327087075647,
+      "TotalSize": 516764631985
     },
-    "version": "5.6.1",
+    "version": "5.7.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-06-09T16:51:25.8125264Z",
+    "dateUpdated": "2025-06-15T10:02:08.3072813Z",
     "repositoryName": ""
   },
   {
