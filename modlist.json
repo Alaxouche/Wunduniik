@@ -24,7 +24,7 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/89632/89632-1750447742-884074389.png",
       "readme": "https://alaxouche.github.io/TheAstralForge/wunduniik/installation-guide/index/",
-      "download": "https://authored-files.wabbajack.org/Ghost of the Grid - Ultra.wabbajack_fedfbbae-41ca-4bb3-ae51-602f9b4493b5",
+      "download": "https://authored-files.wabbajack.org/Wunduniik - Chapter V.wabbajack_164581b1-0417-4fcf-9545-5bc3009d52e5",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/K7wwKRRszd",
       "websiteURL": ""
@@ -82,6 +82,49 @@
       "TotalSize": 289019878848
     },
     "version": "1.1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-04-11T14:53:04.6496533Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Ghost of the Grid",
+    "description": "Ghost of the Grid is a massive visual modlist for cyberpunk 2077 to transform it into a real Ghost in the Shell/Blade Runner experience!",
+    "author": "Alaxouche",
+    "maintainers": [
+      "github/Alaxouche"
+    ],
+    "game": "cyberpunk2077",
+    "official": false,
+    "tags": [
+      "Unofficial",
+      "Combat Overhaul",
+      "Immersion",
+      "Phantom Liberty",
+      "Graphic Focused"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Ghost of the Grid Banner v1.0.0.webp",
+      "readme": "https://alaxouche.github.io/TheAstralForge/ghost-of-the-grid/installation-guide/index/",
+      "download": "https://authored-files.wabbajack.org/Ghost of the Grid - Ultra.wabbajack_fedfbbae-41ca-4bb3-ae51-602f9b4493b5",
+      "machineURL": "Ghost of the Grid",
+      "discordURL": "https://discord.gg/K7wwKRRszd",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "7x0kSQGj9Tg=",
+      "Size": 653324843,
+      "NumberOfArchives": 1809,
+      "SizeOfArchives": 120712030178,
+      "NumberOfInstalledFiles": 134421,
+      "SizeOfInstalledFiles": 168307848670,
+      "TotalSize": 289019878848
+    },
+    "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-04-11T14:53:04.6496533Z",
     "repositoryName": ""
