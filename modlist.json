@@ -67,23 +67,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Krentoraan.webp",
       "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
-      "download": "https://authored-files.wabbajack.org/Krentoraan.wabbajack_122b6886-933c-4ae2-8108-5dcbd196353d",
+      "download": "https://authored-files.wabbajack.org/Krentoraan.wabbajack_d362911d-7f62-4422-9b85-05c741b597d8",
       "machineURL": "Krentoraan",
       "discordURL": "https://discord.gg/K7wwKRRszd",
       "websiteURL": "https://alaxouche.github.io/TheAstralForge/"
     },
     "download_metadata": {
-      "Hash": "7x0kSQGj9Tg=",
-      "Size": 653324843,
-      "NumberOfArchives": 1809,
-      "SizeOfArchives": 120712030178,
-      "NumberOfInstalledFiles": 134421,
-      "SizeOfInstalledFiles": 168307848670,
-      "TotalSize": 289019878848
+      "Hash": "bB+S5LRLs+k=",
+      "Size": 534002166,
+      "NumberOfArchives": 1761,
+      "SizeOfArchives": 119617848394,
+      "NumberOfInstalledFiles": 132365,
+      "SizeOfInstalledFiles": 158076527031,
+      "TotalSize": 277694375425
     },
-    "version": "1.1.0",
+    "version": "1.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-04-11T14:53:04.6496533Z",
+    "dateUpdated": "2025-07-26T10:11:44.2131851Z",
     "repositoryName": ""
   },
   {
