@@ -24,14 +24,14 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/89632/89632-1757252151-590654294.png",
       "readme": "https://alaxouche.github.io/TheAstralForge/wunduniik/installation-guide/index/",
-      "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_4c31cc4a-d5f0-4404-a18f-72592cc147c4",
+      "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_021e64a9-27a7-456b-ac23-4c109b978c2c",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/K7wwKRRszd",
       "websiteURL": "https://alaxouche.github.io/TheAstralForge/"
     },
     "download_metadata": {
-      "Hash": "Zc5jkgdpSps=",
-      "Size": 811448272,
+      "Hash": "yywV7LV1WiE=",
+      "Size": 811448382,
       "NumberOfArchives": 4586,
       "SizeOfArchives": 206814024864,
       "NumberOfInstalledFiles": 396296,
@@ -40,7 +40,7 @@
     },
     "version": "6.3.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-10-02T21:30:01.6728203Z",
+    "dateUpdated": "2025-10-02T22:32:09.4471767Z",
     "repositoryName": ""
   },
   {
