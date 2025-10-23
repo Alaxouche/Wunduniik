@@ -23,11 +23,11 @@
     "force_down": false,
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/89632/89632-1757252151-590654294.png",
-      "readme": "https://alaxouche.github.io/TheAstralForge/wunduniik/installation-guide/index/",
+      "readme": "https://theastralforge.com/wunduniik/installation-guide/index",
       "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_bc4335db-5de6-41c9-8b4a-2a34115d4680",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/K7wwKRRszd",
-      "websiteURL": "https://alaxouche.github.io/TheAstralForge/"
+      "websiteURL": "https://theastralforge.com"
     },
     "download_metadata": {
       "Hash": "Gwhs46t6SGA=",
@@ -66,11 +66,11 @@
     "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Krentoraan.webp",
-      "readme": "https://www.wunduniikwiki.com/wunduniik-guide",
+      "readme": "https://theastralforge.com/krentoraan/k_installation-guide",
       "download": "https://authored-files.wabbajack.org/Krentoraan.wabbajack_4ab4991c-5d93-42db-be8b-085a677b9cd4",
       "machineURL": "Krentoraan",
       "discordURL": "https://discord.gg/K7wwKRRszd",
-      "websiteURL": "https://alaxouche.github.io/TheAstralForge/"
+      "websiteURL": "https://theastralforge.com"
     },
     "download_metadata": {
       "Hash": "XWAVSpo/yeQ=",
@@ -109,11 +109,11 @@
     "force_down": false,
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/3333/images/22458/22458-1751363379-1189587385.png",
-      "readme": "https://alaxouche.github.io/TheAstralForge/ghost-of-the-grid/installation-guide/index/",
+      "readme": "https://theastralforge.com/ghost-of-the-grid/installation-guide/index",
       "download": "https://authored-files.wabbajack.org/Ghost of the Grid.wabbajack_f2159669-9c82-493b-a66a-0bc4230638d6",
       "machineURL": "GhostOfTheGrid",
       "discordURL": "https://discord.gg/K7wwKRRszd",
-      "websiteURL": "https://alaxouche.github.io/TheAstralForge/"
+      "websiteURL": "https://theastralforge.com"
     },
     "download_metadata": {
       "Hash": "85Z77bknsPs=",
@@ -153,11 +153,11 @@
     "force_down": false,
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/89632/89632-1757252151-590654294.png",
-      "readme": "https://alaxouche.github.io/TheAstralForge/wunduniik/installation-guide/index/",
+      "readme": "https://theastralforge.com/no-mans-sky-explorer/installation-guide/index",
       "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_bc4335db-5de6-41c9-8b4a-2a34115d4680",
       "machineURL": "NMSExplorer",
       "discordURL": "https://discord.gg/K7wwKRRszd",
-      "websiteURL": "https://alaxouche.github.io/TheAstralForge/"
+      "websiteURL": "https://theastralforge.com"
     },
     "download_metadata": {
       "Hash": "Gwhs46t6SGA=",
@@ -174,4 +174,5 @@
     "repositoryName": ""
   },
 ]
+
 
