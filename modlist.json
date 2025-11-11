@@ -110,23 +110,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/3333/images/22458/22458-1751363379-1189587385.png",
       "readme": "https://theastralforge.com/ghost-of-the-grid/installation-guide/index",
-      "download": "https://authored-files.wabbajack.org/Ghost of the Grid.wabbajack_f2159669-9c82-493b-a66a-0bc4230638d6",
+      "download": "https://authored-files.wabbajack.org/Ghost of the Grid.wabbajack_8f43245e-5795-4209-ad82-5f37357b5695",
       "machineURL": "GhostOfTheGrid",
       "discordURL": "https://discord.gg/K7wwKRRszd",
       "websiteURL": "https://theastralforge.com"
     },
     "download_metadata": {
-      "Hash": "85Z77bknsPs=",
-      "Size": 8423824,
-      "NumberOfArchives": 1109,
-      "SizeOfArchives": 24755826523,
-      "NumberOfInstalledFiles": 14574,
-      "SizeOfInstalledFiles": 25341553118,
-      "TotalSize": 50097379641
+      "Hash": "lGIvFvqynn8=",
+      "Size": 8501311,
+      "NumberOfArchives": 1138,
+      "SizeOfArchives": 25536510369,
+      "NumberOfInstalledFiles": 14218,
+      "SizeOfInstalledFiles": 25997670907,
+      "TotalSize": 51534181276
     },
-    "version": "1.5.0.1",
+    "version": "1.5.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-10-23T20:36:10.9767412Z",
+    "dateUpdated": "2025-11-11T14:32:20.9214952Z",
     "repositoryName": ""
   },
   {
