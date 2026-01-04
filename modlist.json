@@ -26,7 +26,7 @@
       "readme": "https://theastralforge.com/wunduniik/installation-guide/index",
       "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_1c83bf70-0bb1-4f7d-9e0a-e3961e905cc5",
       "machineURL": "Wunduniik",
-      "discordURL": "https://discord.gg/K7wwKRRszd",
+      "discordURL": "https://discord.gg/vKuB7nazBk",
       "websiteURL": "https://theastralforge.com"
     },
     "download_metadata": {
@@ -69,7 +69,7 @@
       "readme": "https://theastralforge.com/krentoraan/k_installation-guide",
       "download": "https://authored-files.wabbajack.org/Krentoraan.wabbajack_470e211a-362f-4084-802a-69700142e4c8",
       "machineURL": "Krentoraan",
-      "discordURL": "https://discord.gg/K7wwKRRszd",
+      "discordURL": "https://discord.gg/vKuB7nazBk",
       "websiteURL": "https://theastralforge.com"
     },
     "download_metadata": {
@@ -112,7 +112,7 @@
       "readme": "https://theastralforge.com/ghost-of-the-grid/installation-guide/index",
       "download": "https://authored-files.wabbajack.org/Ghost of the Grid.wabbajack_fa91fa67-e5a7-448b-a937-d8229ce9daf7",
       "machineURL": "GhostOfTheGrid",
-      "discordURL": "https://discord.gg/K7wwKRRszd",
+      "discordURL": "https://discord.gg/vKuB7nazBk",
       "websiteURL": "https://theastralforge.com"
     },
     "download_metadata": {
@@ -156,7 +156,7 @@
       "readme": "https://theastralforge.com/no-mans-sky-explorer/installation-guide/index",
       "download": "https://authored-files.wabbajack.org/No Man\u0027s Sky - Explorer.wabbajack_abc31be0-5368-4205-b3ee-5e978890993f",
       "machineURL": "NMSExplorer",
-      "discordURL": "https://discord.gg/K7wwKRRszd",
+      "discordURL": "https://discord.gg/vKuB7nazBk",
       "websiteURL": "https://theastralforge.com"
     },
     "download_metadata": {
@@ -173,4 +173,5 @@
     "dateUpdated": "2026-01-04T17:41:36.8985486Z",
     "repositoryName": ""
   }
+
 ]
