@@ -172,5 +172,48 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-02-09T09:05:51.3414738Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Extrasolar Containment Protocol",
+    "description": "This modlist is a heavy \u002B3000 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2025 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning Traveler. I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
+    "author": "Alaxouche",
+    "maintainers": [
+      "github/Alaxouche"
+    ],
+    "game": "starfield",
+    "official": true,
+    "tags": [
+      "Unofficial",
+      "Horror",
+      "Immersion",
+      "Survival",
+      "Graphic Focused"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/89632/89632-1757252151-590654294.png",
+      "readme": "https://theastralforge.com/wunduniik/installation-guide/index",
+      "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_52647dc7-15d7-4675-9ce3-ddb719e41a9d",
+      "machineURL": "Wunduniik",
+      "discordURL": "https://discord.gg/vKuB7nazBk",
+      "websiteURL": "https://theastralforge.com"
+    },
+    "download_metadata": {
+      "Hash": "LTTiRuy52Wk=",
+      "Size": 749267943,
+      "NumberOfArchives": 4696,
+      "SizeOfArchives": 209604979754,
+      "NumberOfInstalledFiles": 383164,
+      "SizeOfInstalledFiles": 365673439921,
+      "TotalSize": 575278419675
+    },
+    "version": "1.0.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-01-14T11:07:59.4999093Z",
+    "repositoryName": ""
   }
 ]
