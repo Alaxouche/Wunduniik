@@ -195,7 +195,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/89632/89632-1757252151-590654294.png",
+      "image": "https://staticdelivery.nexusmods.com/mods/4187/images/16027/16027-1770890626-125878726.png",
       "readme": "https://theastralforge.com/wunduniik/installation-guide/index",
       "download": "https://authored-files.wabbajack.org/Extrasolar Containment Protocol.wabbajack_1f22a6ab-b9c4-43b0-8b27-127915d8d644",
       "machineURL": "ExtrasolarContainmentProtocol",
@@ -216,4 +216,5 @@
     "dateUpdated": "2026-02-09T14:20:42.1734336Z",
     "repositoryName": ""
   }
+
 ]
