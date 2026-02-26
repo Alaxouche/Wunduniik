@@ -22,7 +22,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/89632/89632-1757252151-590654294.png",
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/89632/89632-1772114072-694182756.png",
       "readme": "https://theastralforge.com/wunduniik/installation-guide/index",
       "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_52647dc7-15d7-4675-9ce3-ddb719e41a9d",
       "machineURL": "Wunduniik",
@@ -216,4 +216,5 @@
     "dateUpdated": "2026-02-21T23:56:43.5418129Z",
     "repositoryName": ""
   }
+
 ]
