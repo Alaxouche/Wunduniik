@@ -27,7 +27,8 @@
       "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_52647dc7-15d7-4675-9ce3-ddb719e41a9d",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/vKuB7nazBk",
-      "websiteURL": "https://theastralforge.com"
+      "websiteURL": "https://theastralforge.com",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "LTTiRuy52Wk=",
@@ -70,7 +71,8 @@
       "download": "https://authored-files.wabbajack.org/Krentoraan.wabbajack_470e211a-362f-4084-802a-69700142e4c8",
       "machineURL": "Krentoraan",
       "discordURL": "https://discord.gg/vKuB7nazBk",
-      "websiteURL": "https://theastralforge.com"
+      "websiteURL": "https://theastralforge.com",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "xCEEbEp+LEY=",
@@ -113,7 +115,8 @@
       "download": "https://authored-files.wabbajack.org/Ghost of the Grid.wabbajack_881b726c-ba88-4971-9933-b1c279384ba8",
       "machineURL": "GhostOfTheGrid",
       "discordURL": "https://discord.gg/vKuB7nazBk",
-      "websiteURL": "https://theastralforge.com"
+      "websiteURL": "https://theastralforge.com",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "QuR/y5fegRk=",
@@ -157,7 +160,13 @@
       "download": "https://authored-files.wabbajack.org/No Man\u0027s Sky - Explorer.wabbajack_b664cf8e-61d4-4760-b35b-fdd7527809db",
       "machineURL": "NMSExplorer",
       "discordURL": "https://discord.gg/vKuB7nazBk",
-      "websiteURL": "https://theastralforge.com"
+      "websiteURL": "https://theastralforge.com",
+      "nexusCollection": {
+        "collectionId": "423016",
+        "slug": "xvbd7w",
+        "domainName": "nomanssky",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "PyXMRSvpgHE=",
@@ -200,7 +209,8 @@
       "download": "https://authored-files.wabbajack.org/Extrasolar Containment Protocol.wabbajack_bd4f70ee-f0f8-4de0-aab5-709a4023d1ba",
       "machineURL": "ExtrasolarContainmentProtocol",
       "discordURL": "https://discord.gg/vKuB7nazBk",
-      "websiteURL": "https://theastralforge.com"
+      "websiteURL": "https://theastralforge.com",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "zo8VPu52qcY=",
