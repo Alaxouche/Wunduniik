@@ -215,7 +215,12 @@
       "machineURL": "ExtrasolarContainmentProtocol",
       "discordURL": "https://discord.gg/vKuB7nazBk",
       "websiteURL": "https://theastralforge.com",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "424879",
+        "slug": "peluzk",
+        "domainName": "starfield",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "zo8VPu52qcY=",
