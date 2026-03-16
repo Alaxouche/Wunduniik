@@ -116,7 +116,12 @@
       "machineURL": "GhostOfTheGrid",
       "discordURL": "https://discord.gg/vKuB7nazBk",
       "websiteURL": "https://theastralforge.com",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "424755",
+        "slug": "wzyqjd",
+        "domainName": "cyberpunk2077",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "QuR/y5fegRk=",
