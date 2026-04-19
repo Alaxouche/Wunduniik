@@ -211,7 +211,7 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/4187/images/16027/16027-1776346283-446776498.png",
       "readme": "https://theastralforge.com/wunduniik/installation-guide/index",
-      "download": "https://authored-files.wabbajack.org/Extrasolar Containment Protocol.wabbajack_979cd064-2079-4e4d-b92a-d3323dfe4c76",
+      "download": "https://authored-files.wabbajack.org/Extrasolar Containment Protocol.wabbajack_79b2631e-81e3-4c66-aa2d-67fdce156892",
       "machineURL": "ExtrasolarContainmentProtocol",
       "discordURL": "https://discord.gg/vKuB7nazBk",
       "websiteURL": "https://theastralforge.com",
@@ -223,17 +223,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "Y3XpSOEIbxk=",
-      "Size": 8945533,
+      "Hash": "63Ns6Y3+olc=",
+      "Size": 8939729,
       "NumberOfArchives": 764,
       "SizeOfArchives": 74505042037,
-      "NumberOfInstalledFiles": 24466,
-      "SizeOfInstalledFiles": 91141590212,
-      "TotalSize": 165646632249
+      "NumberOfInstalledFiles": 24415,
+      "SizeOfInstalledFiles": 91145685725,
+      "TotalSize": 165650727762
     },
     "version": "2.1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-04-18T21:42:40.5369516Z",
+    "dateUpdated": "2026-04-19T00:14:38.1860168Z",
     "repositoryName": ""
   }
 ]
