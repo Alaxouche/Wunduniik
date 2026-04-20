@@ -24,24 +24,24 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/89632/89632-1772114072-694182756.png",
       "readme": "https://theastralforge.com/wunduniik/installation-guide/index",
-      "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_9389f509-2502-4b07-b59b-d5c50bd34c75",
+      "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_ce39ed61-99a0-42eb-b4cd-f383af7e00ed",
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/vKuB7nazBk",
       "websiteURL": "https://theastralforge.com",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "sKbcw9rmw0s=",
-      "Size": 412116140,
+      "Hash": "uJMHTDwA5uw=",
+      "Size": 412116977,
       "NumberOfArchives": 4754,
       "SizeOfArchives": 196013941783,
       "NumberOfInstalledFiles": 363765,
-      "SizeOfInstalledFiles": 333339557957,
-      "TotalSize": 529353499740
+      "SizeOfInstalledFiles": 333339557938,
+      "TotalSize": 529353499721
     },
     "version": "7.0.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-04-20T11:24:26.4287728Z",
+    "dateUpdated": "2026-04-20T12:27:57.92342Z",
     "repositoryName": ""
   },
   {
