@@ -28,7 +28,12 @@
       "machineURL": "Wunduniik",
       "discordURL": "https://discord.gg/vKuB7nazBk",
       "websiteURL": "https://theastralforge.com",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "439481",
+        "slug": "ozkw4f",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "uJMHTDwA5uw=",
