@@ -1,5 +1,3 @@
-![Logo]([[https://i.redd.it/jvzzn99stzua1.png](https://i.redd.it/jvzzn99stzua1.png))
-
 ---
 
 <h3 align="center">
@@ -10,4 +8,4 @@
 </h3>
 <hr>
 
-# README IS NOW FOUND IN [WUNDUNIIK WEBSITE](https://www.wunduniikwiki.com)
+# README IS NOW FOUND IN [THE ASTRAL FORGE WEBSITE](https://theastralforge.com)
