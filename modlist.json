@@ -167,7 +167,7 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1634/images/3878/3878-1761252865-1768397610.png",
       "readme": "https://theastralforge.com/no-mans-sky-explorer/installation-guide/index",
-      "download": "https://authored-files.wabbajack.org/No Man\u0027s Sky - Explorer.wabbajack_0d2e1c5c-552c-4238-a73f-63bfc49d5c3e",
+      "download": "https://authored-files.wabbajack.org/No Man\u0027s Sky - Explorer.wabbajack_2d47eb4a-d05c-4b5d-ac49-0157a972cca2",
       "machineURL": "NMSExplorer",
       "discordURL": "https://discord.gg/vKuB7nazBk",
       "websiteURL": "https://theastralforge.com",
@@ -179,17 +179,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "Tg1spukBSbo=",
-      "Size": 2534445,
-      "NumberOfArchives": 216,
-      "SizeOfArchives": 1349684132,
-      "NumberOfInstalledFiles": 18699,
-      "SizeOfInstalledFiles": 2062799956,
-      "TotalSize": 3412484088
+      "Hash": "IUEoU4GGpmE=",
+      "Size": 2554217,
+      "NumberOfArchives": 217,
+      "SizeOfArchives": 1355215228,
+      "NumberOfInstalledFiles": 18757,
+      "SizeOfInstalledFiles": 2076745013,
+      "TotalSize": 3431960241
     },
-    "version": "3.0.1.0",
+    "version": "3.0.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-10-11T21:45:14.3431076Z",
+    "dateUpdated": "2026-10-21T04:50:15.2049613Z",
     "repositoryName": ""
   },
   {
